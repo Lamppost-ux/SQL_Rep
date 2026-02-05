@@ -1,0 +1,31 @@
+job_id,job_title,salary_year_avg,company_name,skills
+448257,Analytics Engineer (L5) - Live Quality of Experience,445000,Netflix,sql
+448257,Analytics Engineer (L5) - Live Quality of Experience,445000,Netflix,python
+217345,Financial & Data Analyst - Pricing (12 months Contract),385000,Siemens,excel
+217345,Financial & Data Analyst - Pricing (12 months Contract),385000,Siemens,sap
+420010,Director of Engineering - Analytics,296910,Confluent,kubernetes
+465683,Data Analyst,264000,Edge & Node,sql
+465683,Data Analyst,264000,Edge & Node,go
+465683,Data Analyst,264000,Edge & Node,graphql
+465683,Data Analyst,264000,Edge & Node,node
+465683,Data Analyst,264000,Edge & Node,tableau
+465683,Data Analyst,264000,Edge & Node,looker
+465683,Data Analyst,264000,Edge & Node,git
+452509,AI Deep Learning Quantitative Analyst (Remote),230000,Nurp,python
+452509,AI Deep Learning Quantitative Analyst (Remote),230000,Nurp,r
+452509,AI Deep Learning Quantitative Analyst (Remote),230000,Nurp,matlab
+452509,AI Deep Learning Quantitative Analyst (Remote),230000,Nurp,aws
+122889,Product Data Analyst,226500,Get It Recruit - Information Technology,sql
+122889,Product Data Analyst,226500,Get It Recruit - Information Technology,python
+122889,Product Data Analyst,226500,Get It Recruit - Information Technology,databricks
+122889,Product Data Analyst,226500,Get It Recruit - Information Technology,spark
+229343,"Head of FP&A, Data & Analytics",224000,Atlassian,sql
+229343,"Head of FP&A, Data & Analytics",224000,Atlassian,python
+229343,"Head of FP&A, Data & Analytics",224000,Atlassian,r
+229343,"Head of FP&A, Data & Analytics",224000,Atlassian,c
+229343,"Head of FP&A, Data & Analytics",224000,Atlassian,oracle
+229343,"Head of FP&A, Data & Analytics",224000,Atlassian,atlassian
+96272,Medical Analytics,198500,Pfizer,gcp
+458616,Data Analyst (HR & Finance),192000,Smartcat,c
+458616,Data Analyst (HR & Finance),192000,Smartcat,excel
+458616,Data Analyst (HR & Finance),192000,Smartcat,sheets
