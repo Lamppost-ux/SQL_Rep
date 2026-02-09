@@ -1,0 +1,501 @@
+patient_key,patient_id,first_name,last_name,gender,age,age_group,blood_type,insurance_type,city,state_region
+1,PAT-0001,Mary,White,Female,15,0-17,B-,Medicare,London,England
+2,PAT-0002,Amanda,White,Male,14,0-17,O+,Private,Port Harcourt,Rivers
+3,PAT-0003,Susan,Davis,Male,12,0-17,B-,Employer-Sponsored,Lagos,Lagos
+4,PAT-0004,Mark,Jackson,Female,29,18-34,A+,Medicare,Los Angeles,CA
+5,PAT-0005,Lisa,Rodriguez,Male,55,55-74,B-,Medicaid,Manchester,England
+6,PAT-0006,Matthew,Brown,Female,12,0-17,AB-,Employer-Sponsored,Abuja,FCT
+7,PAT-0007,George,Anderson,Male,6,0-17,O+,Private,Ibadan,Oyo
+8,PAT-0008,Kenneth,Martin,Female,38,35-54,B-,Private,Houston,TX
+9,PAT-0009,Joseph,Harris,Female,85,75+,A-,Medicare,Lagos,Lagos
+10,PAT-0010,Matthew,Rodriguez,Female,13,0-17,AB-,Medicare,Leeds,England
+11,PAT-0011,Susan,Perez,Female,46,35-54,A-,Employer-Sponsored,New York,NY
+12,PAT-0012,Paul,White,Male,22,18-34,B+,Self-Pay,London,England
+13,PAT-0013,Kenneth,Thompson,Male,35,35-54,AB-,Private,Los Angeles,CA
+14,PAT-0014,Christopher,Gonzalez,Female,5,0-17,A-,Medicare,Kano,Kano
+15,PAT-0015,Susan,Lee,Female,41,35-54,O+,Self-Pay,Phoenix,AZ
+16,PAT-0016,David,Davis,Female,34,18-34,O+,Employer-Sponsored,Port Harcourt,Rivers
+17,PAT-0017,Joseph,Jones,Female,47,35-54,A-,Private,Los Angeles,CA
+18,PAT-0018,Elizabeth,Lee,Male,15,0-17,O+,Employer-Sponsored,Leeds,England
+19,PAT-0019,Matthew,Martin,Female,50,35-54,AB+,Employer-Sponsored,Abuja,FCT
+20,PAT-0020,Amanda,White,Male,2,0-17,AB+,Medicaid,Leeds,England
+21,PAT-0021,Margaret,Garcia,Female,38,35-54,A+,Medicaid,Abuja,FCT
+22,PAT-0022,Steven,Robinson,Male,23,18-34,AB+,Employer-Sponsored,Houston,TX
+23,PAT-0023,Elizabeth,Lopez,Male,26,18-34,A+,Employer-Sponsored,Phoenix,AZ
+24,PAT-0024,Mary,Brown,Female,63,55-74,AB+,Medicare,New York,NY
+25,PAT-0025,Andrew,Williams,Male,31,18-34,O-,Private,Lagos,Lagos
+26,PAT-0026,Deborah,Jones,Male,69,55-74,O-,Employer-Sponsored,Birmingham,England
+27,PAT-0027,Kimberly,Ramirez,Female,34,18-34,B-,Employer-Sponsored,Port Harcourt,Rivers
+28,PAT-0028,Dorothy,Martinez,Female,26,18-34,AB-,Self-Pay,Birmingham,England
+29,PAT-0029,Linda,Davis,Male,58,55-74,A-,Medicaid,Houston,TX
+30,PAT-0030,Emily,Davis,Male,76,75+,A+,Private,Lagos,Lagos
+31,PAT-0031,Patricia,Davis,Male,81,75+,A+,Medicaid,Manchester,England
+32,PAT-0032,Jessica,Rodriguez,Female,66,55-74,B-,Employer-Sponsored,Abuja,FCT
+33,PAT-0033,Andrew,Thomas,Male,74,55-74,O-,Self-Pay,Port Harcourt,Rivers
+34,PAT-0034,Michael,Perez,Female,13,0-17,AB-,Self-Pay,Kano,Kano
+35,PAT-0035,George,Johnson,Male,60,55-74,A+,Self-Pay,Los Angeles,CA
+36,PAT-0036,Michael,Davis,Male,44,35-54,B-,Employer-Sponsored,Manchester,England
+37,PAT-0037,Margaret,Garcia,Female,18,18-34,O-,Medicare,Chicago,IL
+38,PAT-0038,Mark,Sanchez,Male,10,0-17,A+,Employer-Sponsored,Leeds,England
+39,PAT-0039,Jennifer,Robinson,Male,2,0-17,B+,Self-Pay,Leeds,England
+40,PAT-0040,Susan,Ramirez,Female,62,55-74,A+,Medicare,Chicago,IL
+41,PAT-0041,Matthew,Rodriguez,Female,1,0-17,AB+,Self-Pay,Los Angeles,CA
+42,PAT-0042,Kevin,Thompson,Female,72,55-74,B+,Medicare,Manchester,England
+43,PAT-0043,Patricia,Jackson,Male,28,18-34,AB-,Private,Ibadan,Oyo
+44,PAT-0044,Donald,Taylor,Male,75,75+,A+,Employer-Sponsored,Lagos,Lagos
+45,PAT-0045,Robert,Martin,Male,24,18-34,B-,Self-Pay,Abuja,FCT
+46,PAT-0046,Jessica,Jackson,Male,73,55-74,A-,Self-Pay,Abuja,FCT
+47,PAT-0047,Andrew,Taylor,Female,75,75+,AB+,Medicare,London,England
+48,PAT-0048,Jessica,Rodriguez,Female,41,35-54,B+,Medicaid,London,England
+49,PAT-0049,Timothy,Robinson,Male,41,35-54,A+,Self-Pay,Chicago,IL
+50,PAT-0050,Michael,Williams,Male,73,55-74,AB+,Medicare,Phoenix,AZ
+51,PAT-0051,Jessica,Lopez,Female,9,0-17,B+,Self-Pay,New York,NY
+52,PAT-0052,Dorothy,Martinez,Male,70,55-74,AB+,Private,Leeds,England
+53,PAT-0053,Linda,Lewis,Male,34,18-34,B+,Medicaid,Port Harcourt,Rivers
+54,PAT-0054,Susan,Thompson,Female,78,75+,B-,Medicaid,Ibadan,Oyo
+55,PAT-0055,Thomas,Lewis,Male,63,55-74,A-,Self-Pay,Houston,TX
+56,PAT-0056,John,Smith,Female,36,35-54,B+,Medicaid,Leeds,England
+57,PAT-0057,Emily,Thompson,Female,57,55-74,A+,Private,Port Harcourt,Rivers
+58,PAT-0058,Paul,Johnson,Female,20,18-34,B+,Self-Pay,Abuja,FCT
+59,PAT-0059,Karen,Lopez,Male,6,0-17,AB-,Medicare,Port Harcourt,Rivers
+60,PAT-0060,Kevin,Brown,Female,32,18-34,O+,Employer-Sponsored,London,England
+61,PAT-0061,Jessica,Ramirez,Male,20,18-34,B+,Self-Pay,Manchester,England
+62,PAT-0062,Melissa,Robinson,Female,23,18-34,O+,Medicare,Lagos,Lagos
+63,PAT-0063,Brian,Brown,Female,21,18-34,A+,Self-Pay,Ibadan,Oyo
+64,PAT-0064,Sandra,Lopez,Female,26,18-34,B-,Medicare,Kano,Kano
+65,PAT-0065,Richard,Gonzalez,Female,85,75+,AB+,Private,Lagos,Lagos
+66,PAT-0066,Daniel,Lee,Female,36,35-54,AB-,Private,Birmingham,England
+67,PAT-0067,Barbara,Jackson,Female,34,18-34,A+,Private,Abuja,FCT
+68,PAT-0068,Daniel,White,Female,56,55-74,O+,Employer-Sponsored,Phoenix,AZ
+69,PAT-0069,Matthew,Lewis,Male,15,0-17,AB+,Private,Houston,TX
+70,PAT-0070,James,Taylor,Male,56,55-74,AB-,Self-Pay,Manchester,England
+71,PAT-0071,Michelle,Hernandez,Male,43,35-54,AB+,Employer-Sponsored,Abuja,FCT
+72,PAT-0072,Christopher,Gonzalez,Female,53,35-54,B+,Medicare,Ibadan,Oyo
+73,PAT-0073,Amanda,White,Male,49,35-54,AB+,Self-Pay,Los Angeles,CA
+74,PAT-0074,Karen,Martinez,Male,1,0-17,O+,Employer-Sponsored,Houston,TX
+75,PAT-0075,Christopher,Anderson,Female,84,75+,O-,Medicare,Phoenix,AZ
+76,PAT-0076,Melissa,Garcia,Male,61,55-74,AB+,Employer-Sponsored,Houston,TX
+77,PAT-0077,Michelle,Hernandez,Male,82,75+,B-,Medicaid,London,England
+78,PAT-0078,Elizabeth,Smith,Male,26,18-34,B-,Self-Pay,Kano,Kano
+79,PAT-0079,Sandra,Wilson,Male,10,0-17,O+,Self-Pay,Phoenix,AZ
+80,PAT-0080,Elizabeth,Lee,Male,32,18-34,A-,Self-Pay,Los Angeles,CA
+81,PAT-0081,Brian,Taylor,Female,23,18-34,A+,Employer-Sponsored,Kano,Kano
+82,PAT-0082,Sandra,Jones,Female,16,0-17,AB-,Self-Pay,Kano,Kano
+83,PAT-0083,Margaret,Clark,Female,65,55-74,B+,Self-Pay,Phoenix,AZ
+84,PAT-0084,Timothy,Davis,Female,34,18-34,O-,Medicare,Chicago,IL
+85,PAT-0085,Robert,Thompson,Female,57,55-74,B-,Medicaid,Ibadan,Oyo
+86,PAT-0086,Paul,Williams,Male,41,35-54,B+,Medicare,New York,NY
+87,PAT-0087,Dorothy,Miller,Male,20,18-34,O+,Self-Pay,Los Angeles,CA
+88,PAT-0088,Sandra,Wilson,Male,70,55-74,B-,Self-Pay,New York,NY
+89,PAT-0089,Brian,Smith,Female,75,75+,O-,Private,Los Angeles,CA
+90,PAT-0090,Timothy,Gonzalez,Female,39,35-54,B-,Self-Pay,New York,NY
+91,PAT-0091,Margaret,Thomas,Male,35,35-54,O+,Medicaid,Kano,Kano
+92,PAT-0092,George,Garcia,Female,52,35-54,B+,Employer-Sponsored,London,England
+93,PAT-0093,Betty,Jackson,Male,4,0-17,A-,Self-Pay,Houston,TX
+94,PAT-0094,Barbara,Johnson,Female,60,55-74,O+,Medicaid,Port Harcourt,Rivers
+95,PAT-0095,Christopher,Hernandez,Female,59,55-74,AB+,Self-Pay,Kano,Kano
+96,PAT-0096,Donald,Smith,Male,11,0-17,AB-,Medicare,Ibadan,Oyo
+97,PAT-0097,Deborah,Lee,Male,9,0-17,A+,Medicare,London,England
+98,PAT-0098,Michelle,Jones,Male,3,0-17,B+,Self-Pay,Kano,Kano
+99,PAT-0099,Andrew,Miller,Female,15,0-17,AB+,Medicaid,London,England
+100,PAT-0100,Joshua,White,Male,78,75+,B+,Medicaid,Port Harcourt,Rivers
+101,PAT-0101,Mary,Robinson,Female,75,75+,O+,Self-Pay,Abuja,FCT
+102,PAT-0102,Robert,Jackson,Male,26,18-34,A-,Medicaid,Manchester,England
+103,PAT-0103,Linda,Sanchez,Male,77,75+,AB-,Employer-Sponsored,Leeds,England
+104,PAT-0104,Nancy,Williams,Female,85,75+,A+,Self-Pay,Los Angeles,CA
+105,PAT-0105,Michael,Wilson,Female,63,55-74,O-,Medicare,Leeds,England
+106,PAT-0106,George,Taylor,Female,23,18-34,O-,Self-Pay,Los Angeles,CA
+107,PAT-0107,Sarah,Hernandez,Male,76,75+,A-,Medicaid,Los Angeles,CA
+108,PAT-0108,Timothy,Anderson,Female,32,18-34,AB-,Private,Chicago,IL
+109,PAT-0109,Barbara,Thomas,Male,42,35-54,AB-,Medicaid,Chicago,IL
+110,PAT-0110,Joshua,Thompson,Female,36,35-54,A+,Employer-Sponsored,New York,NY
+111,PAT-0111,Jessica,White,Female,11,0-17,O-,Employer-Sponsored,Kano,Kano
+112,PAT-0112,Brian,Thomas,Female,31,18-34,O-,Private,Birmingham,England
+113,PAT-0113,Joseph,Gonzalez,Male,38,35-54,AB+,Employer-Sponsored,Abuja,FCT
+114,PAT-0114,Emily,Taylor,Female,61,55-74,O+,Employer-Sponsored,New York,NY
+115,PAT-0115,Brian,Anderson,Female,46,35-54,AB+,Medicaid,New York,NY
+116,PAT-0116,George,Miller,Female,16,0-17,A-,Employer-Sponsored,Kano,Kano
+117,PAT-0117,Richard,Miller,Female,24,18-34,AB+,Employer-Sponsored,Birmingham,England
+118,PAT-0118,Joshua,Martinez,Male,68,55-74,B-,Medicaid,Birmingham,England
+119,PAT-0119,Barbara,Martinez,Male,47,35-54,B+,Medicaid,Kano,Kano
+120,PAT-0120,Emily,Martinez,Male,7,0-17,O-,Private,Lagos,Lagos
+121,PAT-0121,Andrew,Martinez,Female,2,0-17,O-,Self-Pay,Leeds,England
+122,PAT-0122,Patricia,Rodriguez,Female,24,18-34,A-,Private,New York,NY
+123,PAT-0123,Robert,Jackson,Male,63,55-74,B+,Medicare,Los Angeles,CA
+124,PAT-0124,Karen,Williams,Male,73,55-74,A-,Employer-Sponsored,Birmingham,England
+125,PAT-0125,Joshua,Martin,Male,54,35-54,O+,Self-Pay,Birmingham,England
+126,PAT-0126,Donna,Wilson,Female,39,35-54,A+,Employer-Sponsored,Chicago,IL
+127,PAT-0127,Timothy,Miller,Male,13,0-17,AB+,Private,Manchester,England
+128,PAT-0128,Barbara,Moore,Male,31,18-34,B+,Private,Port Harcourt,Rivers
+129,PAT-0129,Brian,Martin,Female,58,55-74,AB+,Private,Los Angeles,CA
+130,PAT-0130,Dorothy,Martinez,Female,37,35-54,A-,Medicare,Kano,Kano
+131,PAT-0131,Donna,Perez,Male,81,75+,O+,Private,Ibadan,Oyo
+132,PAT-0132,Carol,Jones,Female,29,18-34,B+,Private,Houston,TX
+133,PAT-0133,Karen,Martin,Female,22,18-34,O-,Private,Lagos,Lagos
+134,PAT-0134,Brian,Gonzalez,Female,39,35-54,O-,Self-Pay,Chicago,IL
+135,PAT-0135,John,Lewis,Female,77,75+,AB-,Employer-Sponsored,Abuja,FCT
+136,PAT-0136,Jennifer,Davis,Male,4,0-17,AB+,Employer-Sponsored,Ibadan,Oyo
+137,PAT-0137,Donald,Taylor,Female,23,18-34,AB+,Medicare,Lagos,Lagos
+138,PAT-0138,Kenneth,Clark,Female,56,55-74,A-,Self-Pay,Phoenix,AZ
+139,PAT-0139,Lisa,Hernandez,Male,53,35-54,B+,Medicaid,New York,NY
+140,PAT-0140,Charles,Perez,Female,64,55-74,A+,Self-Pay,Los Angeles,CA
+141,PAT-0141,Thomas,Hernandez,Male,41,35-54,O+,Employer-Sponsored,Abuja,FCT
+142,PAT-0142,Kevin,Ramirez,Female,1,0-17,O+,Private,Leeds,England
+143,PAT-0143,Nancy,Martin,Female,67,55-74,O-,Private,Kano,Kano
+144,PAT-0144,Emily,Jones,Female,35,35-54,O-,Self-Pay,Kano,Kano
+145,PAT-0145,Kenneth,Martin,Male,4,0-17,B+,Medicaid,Abuja,FCT
+146,PAT-0146,Emily,Wilson,Male,2,0-17,B-,Private,Houston,TX
+147,PAT-0147,Carol,Clark,Male,16,0-17,O-,Medicaid,Chicago,IL
+148,PAT-0148,Anthony,Clark,Female,35,35-54,O-,Medicare,Houston,TX
+149,PAT-0149,Elizabeth,Gonzalez,Male,71,55-74,B+,Private,Chicago,IL
+150,PAT-0150,Lisa,Robinson,Female,54,35-54,A+,Medicaid,Ibadan,Oyo
+151,PAT-0151,Donna,Jackson,Female,39,35-54,B+,Self-Pay,Manchester,England
+152,PAT-0152,Daniel,Hernandez,Female,62,55-74,O-,Medicaid,Houston,TX
+153,PAT-0153,Brian,Davis,Female,25,18-34,B-,Self-Pay,Leeds,England
+154,PAT-0154,Melissa,Thomas,Female,41,35-54,O+,Medicare,Lagos,Lagos
+155,PAT-0155,David,Taylor,Female,5,0-17,A-,Self-Pay,Chicago,IL
+156,PAT-0156,Sandra,Smith,Male,68,55-74,O+,Medicare,Abuja,FCT
+157,PAT-0157,Thomas,Hernandez,Female,61,55-74,A-,Medicaid,Abuja,FCT
+158,PAT-0158,Matthew,Hernandez,Female,69,55-74,A+,Employer-Sponsored,Leeds,England
+159,PAT-0159,Kenneth,Perez,Female,31,18-34,B-,Private,Abuja,FCT
+160,PAT-0160,Timothy,Lee,Male,13,0-17,O-,Medicare,Los Angeles,CA
+161,PAT-0161,Mary,Johnson,Female,39,35-54,A+,Medicaid,Manchester,England
+162,PAT-0162,Margaret,Jones,Male,48,35-54,O+,Employer-Sponsored,New York,NY
+163,PAT-0163,William,Garcia,Male,24,18-34,O+,Employer-Sponsored,London,England
+164,PAT-0164,Ashley,Robinson,Male,31,18-34,B-,Self-Pay,London,England
+165,PAT-0165,Sandra,Rodriguez,Male,33,18-34,O-,Medicaid,London,England
+166,PAT-0166,William,Williams,Female,70,55-74,AB-,Employer-Sponsored,London,England
+167,PAT-0167,Margaret,Thompson,Female,82,75+,O-,Medicaid,Ibadan,Oyo
+168,PAT-0168,Donald,Brown,Male,50,35-54,O+,Employer-Sponsored,Kano,Kano
+169,PAT-0169,Charles,Thompson,Female,74,55-74,A+,Self-Pay,New York,NY
+170,PAT-0170,Andrew,Ramirez,Male,2,0-17,O-,Medicaid,Ibadan,Oyo
+171,PAT-0171,Joshua,Sanchez,Female,30,18-34,B-,Medicare,Birmingham,England
+172,PAT-0172,Amanda,Harris,Male,33,18-34,A-,Private,Phoenix,AZ
+173,PAT-0173,John,Jackson,Female,57,55-74,B+,Private,Ibadan,Oyo
+174,PAT-0174,Melissa,Wilson,Male,42,35-54,B-,Medicare,Ibadan,Oyo
+175,PAT-0175,Nancy,Taylor,Female,70,55-74,B+,Medicaid,Birmingham,England
+176,PAT-0176,Charles,White,Female,62,55-74,A-,Self-Pay,Leeds,England
+177,PAT-0177,Timothy,Davis,Female,19,18-34,AB-,Private,Abuja,FCT
+178,PAT-0178,James,Rodriguez,Male,51,35-54,O-,Medicaid,Birmingham,England
+179,PAT-0179,Donna,Gonzalez,Female,34,18-34,A-,Medicare,London,England
+180,PAT-0180,Michelle,Lewis,Female,4,0-17,B-,Private,Chicago,IL
+181,PAT-0181,Brian,Martinez,Female,60,55-74,A-,Medicare,London,England
+182,PAT-0182,Karen,Thomas,Male,5,0-17,A-,Medicare,Lagos,Lagos
+183,PAT-0183,Matthew,Anderson,Female,18,18-34,O+,Employer-Sponsored,Houston,TX
+184,PAT-0184,Anthony,Lee,Male,20,18-34,O-,Employer-Sponsored,Manchester,England
+185,PAT-0185,John,Thompson,Female,36,35-54,B-,Self-Pay,Los Angeles,CA
+186,PAT-0186,Nancy,Brown,Female,31,18-34,AB-,Private,Chicago,IL
+187,PAT-0187,Richard,Brown,Female,36,35-54,A-,Medicare,Los Angeles,CA
+188,PAT-0188,Joshua,Smith,Male,82,75+,AB-,Medicare,London,England
+189,PAT-0189,Susan,Williams,Male,73,55-74,B-,Medicare,Port Harcourt,Rivers
+190,PAT-0190,Joshua,Smith,Female,19,18-34,B+,Medicare,New York,NY
+191,PAT-0191,Barbara,Brown,Male,33,18-34,B+,Private,Houston,TX
+192,PAT-0192,Donna,Hernandez,Male,31,18-34,B+,Medicaid,New York,NY
+193,PAT-0193,Melissa,Wilson,Male,17,0-17,A-,Self-Pay,Lagos,Lagos
+194,PAT-0194,Steven,Jackson,Male,47,35-54,O-,Employer-Sponsored,Chicago,IL
+195,PAT-0195,John,White,Female,79,75+,O-,Private,Kano,Kano
+196,PAT-0196,Betty,Wilson,Male,62,55-74,O-,Self-Pay,Lagos,Lagos
+197,PAT-0197,Christopher,Martin,Male,11,0-17,A-,Medicare,Abuja,FCT
+198,PAT-0198,Kenneth,Jackson,Female,80,75+,O+,Employer-Sponsored,Ibadan,Oyo
+199,PAT-0199,Sandra,Taylor,Female,38,35-54,A-,Private,Houston,TX
+200,PAT-0200,Carol,Lewis,Male,84,75+,O+,Self-Pay,Leeds,England
+201,PAT-0201,Lisa,Clark,Female,53,35-54,O+,Self-Pay,Kano,Kano
+202,PAT-0202,Christopher,Wilson,Female,13,0-17,AB+,Medicaid,Manchester,England
+203,PAT-0203,Robert,Williams,Male,61,55-74,A-,Self-Pay,Port Harcourt,Rivers
+204,PAT-0204,David,Moore,Male,48,35-54,AB-,Private,Abuja,FCT
+205,PAT-0205,Kevin,Harris,Female,46,35-54,A+,Medicaid,Los Angeles,CA
+206,PAT-0206,Daniel,Brown,Male,40,35-54,B+,Self-Pay,Phoenix,AZ
+207,PAT-0207,Daniel,Ramirez,Female,14,0-17,A-,Medicaid,Kano,Kano
+208,PAT-0208,Margaret,Ramirez,Male,29,18-34,AB+,Private,Phoenix,AZ
+209,PAT-0209,Brian,Harris,Female,35,35-54,AB-,Medicaid,Port Harcourt,Rivers
+210,PAT-0210,Elizabeth,Jackson,Female,24,18-34,A-,Medicare,Lagos,Lagos
+211,PAT-0211,Mary,Williams,Male,82,75+,O+,Self-Pay,Manchester,England
+212,PAT-0212,William,Lopez,Female,44,35-54,AB-,Employer-Sponsored,Chicago,IL
+213,PAT-0213,Patricia,Jones,Male,11,0-17,A+,Private,Phoenix,AZ
+214,PAT-0214,Kevin,Wilson,Female,57,55-74,O-,Self-Pay,Ibadan,Oyo
+215,PAT-0215,Timothy,Taylor,Male,28,18-34,AB-,Self-Pay,Ibadan,Oyo
+216,PAT-0216,Amanda,Perez,Female,37,35-54,AB+,Private,Abuja,FCT
+217,PAT-0217,Joshua,Johnson,Male,51,35-54,B-,Medicaid,Kano,Kano
+218,PAT-0218,Timothy,Rodriguez,Female,18,18-34,AB-,Private,Kano,Kano
+219,PAT-0219,Melissa,Wilson,Male,64,55-74,B+,Self-Pay,Lagos,Lagos
+220,PAT-0220,Steven,Moore,Female,30,18-34,A-,Self-Pay,Houston,TX
+221,PAT-0221,Margaret,Smith,Female,6,0-17,A-,Medicaid,Leeds,England
+222,PAT-0222,Andrew,Gonzalez,Female,55,55-74,AB+,Private,Phoenix,AZ
+223,PAT-0223,Christopher,Garcia,Female,3,0-17,AB-,Private,Los Angeles,CA
+224,PAT-0224,Jessica,Wilson,Female,14,0-17,A-,Self-Pay,Los Angeles,CA
+225,PAT-0225,Melissa,Hernandez,Male,40,35-54,AB-,Medicare,Leeds,England
+226,PAT-0226,Kenneth,Brown,Male,66,55-74,AB-,Medicaid,Abuja,FCT
+227,PAT-0227,Elizabeth,Davis,Male,83,75+,B+,Medicaid,Manchester,England
+228,PAT-0228,Joshua,Jones,Male,23,18-34,B+,Self-Pay,Kano,Kano
+229,PAT-0229,Timothy,Jackson,Female,73,55-74,AB-,Medicaid,Chicago,IL
+230,PAT-0230,Robert,Thomas,Female,57,55-74,AB+,Medicaid,Port Harcourt,Rivers
+231,PAT-0231,Daniel,Taylor,Male,8,0-17,AB+,Self-Pay,Phoenix,AZ
+232,PAT-0232,Patricia,Lopez,Female,5,0-17,A-,Private,Chicago,IL
+233,PAT-0233,Steven,Gonzalez,Female,77,75+,A+,Self-Pay,Phoenix,AZ
+234,PAT-0234,Carol,Miller,Female,74,55-74,O-,Employer-Sponsored,Birmingham,England
+235,PAT-0235,Mark,Brown,Female,8,0-17,A-,Employer-Sponsored,Port Harcourt,Rivers
+236,PAT-0236,John,Davis,Female,23,18-34,O-,Employer-Sponsored,London,England
+237,PAT-0237,William,Lopez,Female,79,75+,AB+,Self-Pay,Houston,TX
+238,PAT-0238,Amanda,Martin,Male,44,35-54,AB-,Private,Los Angeles,CA
+239,PAT-0239,Emily,Perez,Female,13,0-17,AB+,Medicaid,New York,NY
+240,PAT-0240,Joshua,Ramirez,Male,85,75+,AB-,Private,Manchester,England
+241,PAT-0241,Elizabeth,Robinson,Female,85,75+,AB+,Self-Pay,Phoenix,AZ
+242,PAT-0242,Dorothy,Williams,Female,77,75+,O+,Medicaid,Port Harcourt,Rivers
+243,PAT-0243,Kevin,Thompson,Male,17,0-17,O+,Employer-Sponsored,Leeds,England
+244,PAT-0244,Nancy,Martinez,Male,3,0-17,B-,Medicaid,New York,NY
+245,PAT-0245,Richard,Davis,Male,63,55-74,B+,Private,Birmingham,England
+246,PAT-0246,Steven,Harris,Male,13,0-17,AB-,Employer-Sponsored,Ibadan,Oyo
+247,PAT-0247,Matthew,Jones,Male,77,75+,B+,Employer-Sponsored,Port Harcourt,Rivers
+248,PAT-0248,George,Anderson,Male,22,18-34,O+,Medicaid,Birmingham,England
+249,PAT-0249,Mark,Martin,Female,31,18-34,O-,Medicare,London,England
+250,PAT-0250,Karen,Sanchez,Female,31,18-34,B-,Medicaid,Houston,TX
+251,PAT-0251,Mark,Anderson,Female,74,55-74,O+,Employer-Sponsored,London,England
+252,PAT-0252,William,Clark,Male,54,35-54,B+,Medicaid,Houston,TX
+253,PAT-0253,Donald,Ramirez,Female,83,75+,A-,Employer-Sponsored,Lagos,Lagos
+254,PAT-0254,Charles,Williams,Male,16,0-17,AB+,Self-Pay,Leeds,England
+255,PAT-0255,Margaret,Williams,Male,19,18-34,O-,Medicaid,Houston,TX
+256,PAT-0256,Patricia,Gonzalez,Female,54,35-54,B-,Self-Pay,Lagos,Lagos
+257,PAT-0257,Joseph,Smith,Female,48,35-54,A-,Medicaid,Abuja,FCT
+258,PAT-0258,David,Johnson,Female,19,18-34,O-,Medicare,Birmingham,England
+259,PAT-0259,Mark,Martin,Male,61,55-74,A-,Private,Birmingham,England
+260,PAT-0260,Elizabeth,Moore,Female,28,18-34,A-,Medicaid,Ibadan,Oyo
+261,PAT-0261,Linda,Johnson,Male,39,35-54,O+,Employer-Sponsored,Kano,Kano
+262,PAT-0262,Linda,Clark,Female,9,0-17,A+,Employer-Sponsored,Chicago,IL
+263,PAT-0263,Dorothy,Jones,Female,31,18-34,O+,Private,Phoenix,AZ
+264,PAT-0264,Jessica,Jackson,Female,46,35-54,B+,Private,Phoenix,AZ
+265,PAT-0265,Robert,Taylor,Male,47,35-54,O+,Self-Pay,Houston,TX
+266,PAT-0266,Matthew,Lopez,Female,82,75+,A+,Medicaid,Lagos,Lagos
+267,PAT-0267,Daniel,Davis,Male,9,0-17,AB-,Medicare,Birmingham,England
+268,PAT-0268,Paul,Hernandez,Male,46,35-54,O-,Self-Pay,Lagos,Lagos
+269,PAT-0269,David,Williams,Female,24,18-34,A+,Medicaid,London,England
+270,PAT-0270,Richard,Lewis,Male,6,0-17,AB-,Medicaid,Kano,Kano
+271,PAT-0271,Paul,Thomas,Female,51,35-54,A+,Medicare,Houston,TX
+272,PAT-0272,Deborah,Johnson,Female,46,35-54,AB+,Private,Ibadan,Oyo
+273,PAT-0273,Margaret,Lewis,Female,48,35-54,O-,Self-Pay,Birmingham,England
+274,PAT-0274,Ashley,Thompson,Female,24,18-34,AB-,Employer-Sponsored,New York,NY
+275,PAT-0275,George,Wilson,Male,11,0-17,O+,Employer-Sponsored,Ibadan,Oyo
+276,PAT-0276,Paul,Martinez,Female,24,18-34,A-,Private,Leeds,England
+277,PAT-0277,Charles,Martinez,Female,85,75+,O+,Medicare,New York,NY
+278,PAT-0278,Daniel,Anderson,Male,57,55-74,AB-,Employer-Sponsored,Manchester,England
+279,PAT-0279,Kenneth,Sanchez,Male,36,35-54,A-,Self-Pay,Los Angeles,CA
+280,PAT-0280,Melissa,Perez,Male,66,55-74,A+,Medicare,New York,NY
+281,PAT-0281,Amanda,Sanchez,Female,78,75+,A+,Medicare,Leeds,England
+282,PAT-0282,Deborah,Lee,Female,31,18-34,AB-,Self-Pay,Abuja,FCT
+283,PAT-0283,Joshua,Jones,Female,5,0-17,AB-,Medicaid,Phoenix,AZ
+284,PAT-0284,Andrew,Jones,Female,10,0-17,O+,Medicaid,Chicago,IL
+285,PAT-0285,Jessica,Brown,Male,36,35-54,B+,Self-Pay,London,England
+286,PAT-0286,Emily,Brown,Female,50,35-54,AB+,Self-Pay,Houston,TX
+287,PAT-0287,Charles,Thompson,Female,79,75+,B-,Private,Kano,Kano
+288,PAT-0288,Mark,Garcia,Female,10,0-17,A-,Medicaid,Port Harcourt,Rivers
+289,PAT-0289,Dorothy,Williams,Female,45,35-54,AB+,Medicare,London,England
+290,PAT-0290,Barbara,Sanchez,Female,82,75+,B-,Private,Manchester,England
+291,PAT-0291,Jessica,Sanchez,Female,18,18-34,A+,Medicaid,Kano,Kano
+292,PAT-0292,Nancy,Anderson,Male,74,55-74,A-,Private,Houston,TX
+293,PAT-0293,Dorothy,White,Female,51,35-54,O+,Self-Pay,Ibadan,Oyo
+294,PAT-0294,Robert,Jones,Female,74,55-74,A-,Self-Pay,Leeds,England
+295,PAT-0295,Daniel,Jones,Male,67,55-74,B+,Self-Pay,Chicago,IL
+296,PAT-0296,Linda,Taylor,Male,8,0-17,AB+,Medicare,Houston,TX
+297,PAT-0297,Dorothy,Davis,Female,42,35-54,AB+,Private,Port Harcourt,Rivers
+298,PAT-0298,Kenneth,Moore,Female,26,18-34,B+,Medicaid,Ibadan,Oyo
+299,PAT-0299,Jennifer,Taylor,Male,69,55-74,B+,Medicare,Phoenix,AZ
+300,PAT-0300,George,Lewis,Female,80,75+,A+,Private,London,England
+301,PAT-0301,Carol,Harris,Female,6,0-17,B-,Employer-Sponsored,Abuja,FCT
+302,PAT-0302,Kenneth,Smith,Female,80,75+,AB+,Medicaid,Los Angeles,CA
+303,PAT-0303,Amanda,Gonzalez,Female,32,18-34,O-,Private,Chicago,IL
+304,PAT-0304,William,Anderson,Female,8,0-17,O-,Self-Pay,Manchester,England
+305,PAT-0305,Joshua,Jones,Female,44,35-54,AB-,Medicaid,Kano,Kano
+306,PAT-0306,Timothy,Lopez,Male,17,0-17,AB-,Medicare,Los Angeles,CA
+307,PAT-0307,Sarah,Anderson,Male,16,0-17,B+,Private,Chicago,IL
+308,PAT-0308,Matthew,Ramirez,Female,38,35-54,B-,Medicare,Lagos,Lagos
+309,PAT-0309,Andrew,White,Female,42,35-54,B-,Medicare,Leeds,England
+310,PAT-0310,Sandra,Thomas,Female,66,55-74,O-,Private,Chicago,IL
+311,PAT-0311,Steven,Anderson,Male,51,35-54,B-,Employer-Sponsored,Abuja,FCT
+312,PAT-0312,Patricia,Martinez,Female,7,0-17,O-,Medicaid,New York,NY
+313,PAT-0313,Michael,Wilson,Male,2,0-17,AB+,Medicaid,Houston,TX
+314,PAT-0314,Nancy,Johnson,Female,52,35-54,A+,Employer-Sponsored,Birmingham,England
+315,PAT-0315,Nancy,Moore,Female,25,18-34,A-,Self-Pay,Houston,TX
+316,PAT-0316,Timothy,Moore,Female,58,55-74,A-,Medicare,Houston,TX
+317,PAT-0317,Nancy,Sanchez,Female,51,35-54,AB-,Medicare,Abuja,FCT
+318,PAT-0318,Steven,Gonzalez,Male,78,75+,A+,Private,Kano,Kano
+319,PAT-0319,Donald,Taylor,Female,43,35-54,B+,Employer-Sponsored,Port Harcourt,Rivers
+320,PAT-0320,Christopher,Robinson,Female,18,18-34,B+,Self-Pay,Houston,TX
+321,PAT-0321,Donna,Hernandez,Female,39,35-54,AB+,Self-Pay,Phoenix,AZ
+322,PAT-0322,Nancy,Hernandez,Male,3,0-17,O+,Employer-Sponsored,Leeds,England
+323,PAT-0323,Mary,Martin,Female,81,75+,AB+,Employer-Sponsored,Ibadan,Oyo
+324,PAT-0324,George,Johnson,Female,30,18-34,B+,Employer-Sponsored,Phoenix,AZ
+325,PAT-0325,Deborah,Clark,Female,80,75+,B+,Medicare,London,England
+326,PAT-0326,Brian,Brown,Male,74,55-74,A+,Self-Pay,Lagos,Lagos
+327,PAT-0327,Elizabeth,Wilson,Male,54,35-54,O+,Employer-Sponsored,New York,NY
+328,PAT-0328,Donald,Ramirez,Male,79,75+,B+,Employer-Sponsored,Birmingham,England
+329,PAT-0329,Christopher,Perez,Female,72,55-74,O+,Medicaid,Kano,Kano
+330,PAT-0330,Paul,Hernandez,Female,59,55-74,AB+,Employer-Sponsored,Port Harcourt,Rivers
+331,PAT-0331,Jessica,Rodriguez,Female,25,18-34,B-,Medicaid,Chicago,IL
+332,PAT-0332,Dorothy,Miller,Female,37,35-54,AB-,Self-Pay,Birmingham,England
+333,PAT-0333,George,Rodriguez,Female,72,55-74,A-,Employer-Sponsored,New York,NY
+334,PAT-0334,Matthew,Lewis,Female,70,55-74,AB-,Medicare,London,England
+335,PAT-0335,Charles,Thompson,Male,6,0-17,AB-,Self-Pay,Ibadan,Oyo
+336,PAT-0336,Melissa,Thomas,Male,33,18-34,B-,Employer-Sponsored,London,England
+337,PAT-0337,Brian,Rodriguez,Male,72,55-74,A-,Employer-Sponsored,Ibadan,Oyo
+338,PAT-0338,Jessica,Davis,Male,76,75+,B-,Medicare,Manchester,England
+339,PAT-0339,Anthony,Hernandez,Female,13,0-17,A-,Medicare,Lagos,Lagos
+340,PAT-0340,William,Wilson,Female,71,55-74,O-,Medicare,Lagos,Lagos
+341,PAT-0341,Christopher,Martinez,Male,37,35-54,A-,Employer-Sponsored,Birmingham,England
+342,PAT-0342,Melissa,White,Male,69,55-74,B+,Self-Pay,Kano,Kano
+343,PAT-0343,John,Clark,Female,23,18-34,O-,Medicare,Leeds,England
+344,PAT-0344,John,Smith,Female,38,35-54,A-,Medicaid,Manchester,England
+345,PAT-0345,Carol,Moore,Female,59,55-74,B+,Employer-Sponsored,Ibadan,Oyo
+346,PAT-0346,Richard,Sanchez,Male,35,35-54,AB-,Medicare,Chicago,IL
+347,PAT-0347,Carol,Rodriguez,Male,59,55-74,A+,Medicaid,Manchester,England
+348,PAT-0348,Andrew,Perez,Male,38,35-54,B+,Employer-Sponsored,Birmingham,England
+349,PAT-0349,Betty,Clark,Female,82,75+,AB-,Private,Leeds,England
+350,PAT-0350,Barbara,Jones,Female,13,0-17,AB-,Medicare,Los Angeles,CA
+351,PAT-0351,Matthew,Davis,Female,34,18-34,AB+,Medicaid,Lagos,Lagos
+352,PAT-0352,George,Jackson,Male,75,75+,AB+,Medicaid,Ibadan,Oyo
+353,PAT-0353,Patricia,Perez,Male,31,18-34,O-,Medicaid,Manchester,England
+354,PAT-0354,Amanda,Taylor,Female,52,35-54,A-,Medicaid,Port Harcourt,Rivers
+355,PAT-0355,Joseph,Davis,Male,79,75+,O-,Medicare,New York,NY
+356,PAT-0356,Nancy,Wilson,Female,78,75+,B-,Medicare,Chicago,IL
+357,PAT-0357,Jennifer,Taylor,Female,77,75+,AB-,Private,London,England
+358,PAT-0358,Patricia,Clark,Male,15,0-17,B+,Medicare,Phoenix,AZ
+359,PAT-0359,Mark,Brown,Male,67,55-74,O-,Private,New York,NY
+360,PAT-0360,Patricia,Anderson,Male,58,55-74,O+,Self-Pay,Houston,TX
+361,PAT-0361,Emily,Anderson,Female,8,0-17,A+,Self-Pay,Phoenix,AZ
+362,PAT-0362,Melissa,Miller,Male,1,0-17,A+,Self-Pay,Ibadan,Oyo
+363,PAT-0363,Paul,Johnson,Male,9,0-17,O-,Private,New York,NY
+364,PAT-0364,Barbara,Harris,Male,53,35-54,O+,Medicaid,Ibadan,Oyo
+365,PAT-0365,Matthew,Gonzalez,Male,58,55-74,B+,Medicaid,Los Angeles,CA
+366,PAT-0366,Paul,Gonzalez,Male,23,18-34,B-,Private,Abuja,FCT
+367,PAT-0367,Karen,Anderson,Female,3,0-17,O+,Medicare,Birmingham,England
+368,PAT-0368,Daniel,Jones,Female,59,55-74,B-,Private,Kano,Kano
+369,PAT-0369,Anthony,Martin,Male,85,75+,B-,Medicare,Lagos,Lagos
+370,PAT-0370,Joshua,Johnson,Female,13,0-17,A+,Medicare,Abuja,FCT
+371,PAT-0371,Betty,Anderson,Male,6,0-17,B-,Private,Manchester,England
+372,PAT-0372,Charles,Davis,Female,65,55-74,AB-,Medicare,Port Harcourt,Rivers
+373,PAT-0373,Kevin,Taylor,Male,19,18-34,O+,Medicaid,Ibadan,Oyo
+374,PAT-0374,Emily,Jackson,Male,8,0-17,O+,Employer-Sponsored,Ibadan,Oyo
+375,PAT-0375,Daniel,Lee,Female,7,0-17,AB-,Self-Pay,Chicago,IL
+376,PAT-0376,Karen,Gonzalez,Male,20,18-34,O-,Medicare,Los Angeles,CA
+377,PAT-0377,Karen,Ramirez,Male,29,18-34,O-,Private,Leeds,England
+378,PAT-0378,Anthony,Moore,Male,53,35-54,O+,Medicare,Houston,TX
+379,PAT-0379,Lisa,Lee,Male,27,18-34,O-,Medicaid,Ibadan,Oyo
+380,PAT-0380,George,Clark,Male,69,55-74,A+,Medicaid,Abuja,FCT
+381,PAT-0381,Joshua,Johnson,Male,78,75+,B-,Employer-Sponsored,Los Angeles,CA
+382,PAT-0382,Susan,Thomas,Male,72,55-74,AB-,Medicaid,Manchester,England
+383,PAT-0383,Richard,White,Male,28,18-34,O-,Medicare,Lagos,Lagos
+384,PAT-0384,Dorothy,Miller,Female,78,75+,B-,Employer-Sponsored,Manchester,England
+385,PAT-0385,Matthew,Anderson,Female,37,35-54,AB+,Medicaid,New York,NY
+386,PAT-0386,Ashley,Anderson,Male,66,55-74,O-,Medicaid,New York,NY
+387,PAT-0387,Christopher,Wilson,Male,48,35-54,B-,Medicare,Kano,Kano
+388,PAT-0388,Emily,Robinson,Female,34,18-34,AB+,Medicare,Lagos,Lagos
+389,PAT-0389,Joseph,Gonzalez,Male,43,35-54,O-,Employer-Sponsored,Kano,Kano
+390,PAT-0390,Thomas,Harris,Female,44,35-54,O-,Self-Pay,London,England
+391,PAT-0391,William,Jones,Female,46,35-54,B+,Employer-Sponsored,Port Harcourt,Rivers
+392,PAT-0392,Kimberly,Johnson,Male,8,0-17,A+,Private,London,England
+393,PAT-0393,Kenneth,Davis,Male,18,18-34,B+,Private,Los Angeles,CA
+394,PAT-0394,Sandra,Lopez,Male,65,55-74,O-,Self-Pay,Kano,Kano
+395,PAT-0395,Paul,Moore,Female,1,0-17,A+,Private,Lagos,Lagos
+396,PAT-0396,Paul,Martinez,Male,36,35-54,O+,Medicare,Houston,TX
+397,PAT-0397,Kimberly,Jones,Male,13,0-17,B-,Employer-Sponsored,Abuja,FCT
+398,PAT-0398,Daniel,Rodriguez,Female,33,18-34,A-,Medicaid,Houston,TX
+399,PAT-0399,Andrew,Davis,Male,59,55-74,AB+,Private,Los Angeles,CA
+400,PAT-0400,Timothy,Johnson,Male,84,75+,O+,Self-Pay,London,England
+401,PAT-0401,Donald,Johnson,Male,71,55-74,B+,Private,Los Angeles,CA
+402,PAT-0402,Carol,Sanchez,Female,56,55-74,A-,Employer-Sponsored,Chicago,IL
+403,PAT-0403,Susan,Lewis,Female,30,18-34,AB+,Private,Lagos,Lagos
+404,PAT-0404,Paul,Jackson,Male,36,35-54,B+,Medicaid,Abuja,FCT
+405,PAT-0405,Donna,Jones,Female,27,18-34,A-,Medicaid,Lagos,Lagos
+406,PAT-0406,Jessica,Jackson,Female,73,55-74,AB-,Self-Pay,Port Harcourt,Rivers
+407,PAT-0407,Brian,White,Male,18,18-34,AB-,Private,Birmingham,England
+408,PAT-0408,Joseph,Clark,Male,56,55-74,AB-,Employer-Sponsored,Abuja,FCT
+409,PAT-0409,Joshua,Gonzalez,Female,79,75+,A+,Medicaid,Birmingham,England
+410,PAT-0410,Ashley,Davis,Female,58,55-74,O+,Self-Pay,Birmingham,England
+411,PAT-0411,Kevin,Gonzalez,Male,75,75+,AB+,Medicare,Port Harcourt,Rivers
+412,PAT-0412,Jennifer,Rodriguez,Male,10,0-17,O+,Medicare,Manchester,England
+413,PAT-0413,Christopher,Lopez,Male,50,35-54,A-,Private,Manchester,England
+414,PAT-0414,Nancy,Harris,Female,57,55-74,A-,Medicare,Ibadan,Oyo
+415,PAT-0415,Margaret,Anderson,Female,24,18-34,A-,Private,Abuja,FCT
+416,PAT-0416,Emily,Williams,Female,46,35-54,O+,Private,Abuja,FCT
+417,PAT-0417,Matthew,Harris,Male,53,35-54,B-,Employer-Sponsored,Ibadan,Oyo
+418,PAT-0418,Amanda,Gonzalez,Male,22,18-34,B+,Medicaid,Houston,TX
+419,PAT-0419,Ashley,Jones,Male,35,35-54,B+,Self-Pay,Ibadan,Oyo
+420,PAT-0420,Karen,Thomas,Male,54,35-54,AB-,Medicaid,Ibadan,Oyo
+421,PAT-0421,Ashley,Martin,Male,81,75+,O-,Private,Kano,Kano
+422,PAT-0422,James,Gonzalez,Female,39,35-54,O+,Medicaid,Port Harcourt,Rivers
+423,PAT-0423,Margaret,Clark,Male,43,35-54,AB+,Medicaid,Chicago,IL
+424,PAT-0424,Donald,Hernandez,Male,26,18-34,O+,Medicaid,Phoenix,AZ
+425,PAT-0425,Ashley,Jackson,Male,82,75+,AB-,Self-Pay,Ibadan,Oyo
+426,PAT-0426,Nancy,Brown,Male,51,35-54,B+,Employer-Sponsored,Ibadan,Oyo
+427,PAT-0427,Dorothy,Miller,Female,60,55-74,AB+,Private,Lagos,Lagos
+428,PAT-0428,Amanda,Thomas,Male,53,35-54,AB+,Medicare,Leeds,England
+429,PAT-0429,Elizabeth,Thompson,Female,85,75+,O+,Private,Ibadan,Oyo
+430,PAT-0430,Donald,Jackson,Female,77,75+,O+,Employer-Sponsored,Chicago,IL
+431,PAT-0431,Brian,Lewis,Male,47,35-54,A-,Medicare,Lagos,Lagos
+432,PAT-0432,William,Lee,Male,46,35-54,O+,Medicaid,London,England
+433,PAT-0433,Michael,Smith,Male,56,55-74,AB+,Medicare,Birmingham,England
+434,PAT-0434,Emily,Jackson,Male,67,55-74,O-,Medicaid,Houston,TX
+435,PAT-0435,Deborah,Perez,Male,60,55-74,AB-,Private,Los Angeles,CA
+436,PAT-0436,Charles,Wilson,Male,14,0-17,A-,Medicare,Chicago,IL
+437,PAT-0437,Lisa,Anderson,Male,40,35-54,O-,Medicaid,New York,NY
+438,PAT-0438,Mark,White,Female,13,0-17,AB-,Private,Chicago,IL
+439,PAT-0439,Dorothy,Brown,Male,6,0-17,AB-,Private,Ibadan,Oyo
+440,PAT-0440,Melissa,Davis,Male,22,18-34,B+,Medicaid,London,England
+441,PAT-0441,Sandra,Davis,Female,55,55-74,B+,Medicare,Houston,TX
+442,PAT-0442,Margaret,Gonzalez,Male,85,75+,B-,Self-Pay,London,England
+443,PAT-0443,Matthew,Smith,Male,55,55-74,B-,Medicaid,Phoenix,AZ
+444,PAT-0444,Andrew,Brown,Male,9,0-17,AB-,Medicaid,Birmingham,England
+445,PAT-0445,Linda,Rodriguez,Female,59,55-74,AB-,Employer-Sponsored,Kano,Kano
+446,PAT-0446,Betty,Jackson,Male,79,75+,AB-,Medicaid,Los Angeles,CA
+447,PAT-0447,Michelle,Garcia,Female,59,55-74,A-,Medicare,Leeds,England
+448,PAT-0448,Jessica,Martinez,Male,16,0-17,B+,Medicaid,New York,NY
+449,PAT-0449,Steven,Gonzalez,Female,19,18-34,B+,Employer-Sponsored,Manchester,England
+450,PAT-0450,Barbara,Thomas,Male,55,55-74,B+,Self-Pay,Los Angeles,CA
+451,PAT-0451,Barbara,Hernandez,Female,18,18-34,A+,Medicaid,Ibadan,Oyo
+452,PAT-0452,David,Miller,Female,63,55-74,O-,Self-Pay,Lagos,Lagos
+453,PAT-0453,Anthony,Thompson,Female,63,55-74,O-,Medicare,London,England
+454,PAT-0454,Mary,Sanchez,Male,73,55-74,AB+,Private,Abuja,FCT
+455,PAT-0455,Paul,Martinez,Male,29,18-34,O-,Employer-Sponsored,Ibadan,Oyo
+456,PAT-0456,Emily,Taylor,Male,64,55-74,A-,Medicaid,Manchester,England
+457,PAT-0457,Nancy,Moore,Male,70,55-74,O-,Employer-Sponsored,Birmingham,England
+458,PAT-0458,Michael,White,Male,55,55-74,AB+,Private,Kano,Kano
+459,PAT-0459,Daniel,Ramirez,Male,34,18-34,O-,Private,Chicago,IL
+460,PAT-0460,Susan,Sanchez,Female,31,18-34,O+,Medicare,Birmingham,England
+461,PAT-0461,Susan,Clark,Male,18,18-34,A+,Employer-Sponsored,Phoenix,AZ
+462,PAT-0462,Sarah,Martin,Male,69,55-74,AB-,Medicaid,New York,NY
+463,PAT-0463,Sarah,Ramirez,Male,74,55-74,B+,Self-Pay,Ibadan,Oyo
+464,PAT-0464,Carol,Jones,Male,36,35-54,B-,Medicare,Lagos,Lagos
+465,PAT-0465,Jessica,Harris,Female,42,35-54,O-,Medicare,Manchester,England
+466,PAT-0466,Sarah,Lee,Female,81,75+,O+,Self-Pay,Phoenix,AZ
+467,PAT-0467,Deborah,Williams,Female,82,75+,AB+,Medicaid,Abuja,FCT
+468,PAT-0468,Christopher,Jackson,Male,63,55-74,A-,Self-Pay,Chicago,IL
+469,PAT-0469,Robert,Sanchez,Female,46,35-54,B-,Self-Pay,London,England
+470,PAT-0470,Ashley,Rodriguez,Female,28,18-34,AB+,Medicaid,Leeds,England
+471,PAT-0471,David,Jackson,Female,74,55-74,AB-,Private,Houston,TX
+472,PAT-0472,Kenneth,Sanchez,Female,13,0-17,A+,Private,Lagos,Lagos
+473,PAT-0473,Mark,Anderson,Male,21,18-34,O+,Medicare,Leeds,England
+474,PAT-0474,Carol,Martinez,Male,17,0-17,AB+,Private,Manchester,England
+475,PAT-0475,Thomas,Williams,Female,47,35-54,B+,Private,London,England
+476,PAT-0476,Karen,White,Male,81,75+,O+,Private,Los Angeles,CA
+477,PAT-0477,James,Miller,Female,13,0-17,A-,Medicare,Manchester,England
+478,PAT-0478,Kimberly,Perez,Female,29,18-34,A+,Private,Phoenix,AZ
+479,PAT-0479,Linda,Ramirez,Female,44,35-54,B+,Self-Pay,Manchester,England
+480,PAT-0480,Matthew,Williams,Male,30,18-34,A-,Medicaid,Abuja,FCT
+481,PAT-0481,David,Gonzalez,Male,39,35-54,B+,Private,New York,NY
+482,PAT-0482,James,Martin,Male,73,55-74,O-,Medicaid,Houston,TX
+483,PAT-0483,Kenneth,White,Male,28,18-34,O+,Employer-Sponsored,Manchester,England
+484,PAT-0484,Susan,Williams,Male,57,55-74,B+,Private,London,England
+485,PAT-0485,Daniel,Wilson,Female,50,35-54,B+,Medicare,Phoenix,AZ
+486,PAT-0486,Jennifer,Davis,Female,83,75+,A+,Medicaid,Ibadan,Oyo
+487,PAT-0487,Joshua,Taylor,Male,67,55-74,O+,Medicaid,Kano,Kano
+488,PAT-0488,Jessica,Thomas,Female,7,0-17,A-,Medicare,London,England
+489,PAT-0489,Joshua,Williams,Male,82,75+,AB-,Medicaid,Chicago,IL
+490,PAT-0490,Andrew,Wilson,Female,50,35-54,B+,Self-Pay,Port Harcourt,Rivers
+491,PAT-0491,Mary,Jackson,Male,10,0-17,A+,Medicaid,Birmingham,England
+492,PAT-0492,Patricia,Sanchez,Female,6,0-17,AB+,Employer-Sponsored,Kano,Kano
+493,PAT-0493,Margaret,Thompson,Female,54,35-54,A-,Employer-Sponsored,Birmingham,England
+494,PAT-0494,Elizabeth,Rodriguez,Male,79,75+,AB+,Private,Houston,TX
+495,PAT-0495,Elizabeth,Moore,Female,27,18-34,O+,Employer-Sponsored,Houston,TX
+496,PAT-0496,Amanda,Lee,Male,84,75+,AB+,Self-Pay,London,England
+497,PAT-0497,Patricia,Davis,Male,31,18-34,O+,Private,Manchester,England
+498,PAT-0498,Joshua,Johnson,Female,79,75+,B+,Private,Chicago,IL
+499,PAT-0499,Brian,Smith,Male,18,18-34,O-,Medicaid,Lagos,Lagos
+500,PAT-0500,George,Rodriguez,Male,67,55-74,AB-,Medicare,Houston,TX

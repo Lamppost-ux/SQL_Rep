@@ -1,0 +1,21 @@
+diagnosis_key,diagnosis_name,category,type,severity
+1,Hypertension,Cardiovascular,Chronic,High
+2,Type 2 Diabetes,Endocrine,Chronic,High
+3,Acute Bronchitis,Respiratory,Acute,Medium
+4,Migraine,Neurological,Chronic,Medium
+5,Fractured Bone,Musculoskeletal,Acute,Medium
+6,Skin Allergy,Dermatological,Acute,Low
+7,Anxiety Disorder,Mental Health,Chronic,Medium
+8,Pneumonia,Respiratory,Acute,High
+9,Gastritis,Gastrointestinal,Acute,Low
+10,Asthma,Respiratory,Chronic,Medium
+11,Urinary Tract Infection,Urological,Acute,Low
+12,Anemia,Hematological,Chronic,Medium
+13,Arthritis,Musculoskeletal,Chronic,Medium
+14,Depression,Mental Health,Chronic,High
+15,Heart Failure,Cardiovascular,Chronic,Critical
+16,Kidney Stones,Urological,Acute,Medium
+17,Appendicitis,Gastrointestinal,Acute,High
+18,Chickenpox,Infectious,Acute,Low
+19,Stroke,Neurological,Acute,Critical
+20,Lung Cancer,Oncological,Chronic,Critical

@@ -1,0 +1,16 @@
+treatment_key,treatment_name,treatment_category,base_cost,requires_admission
+1,Medication Prescribed,Pharmaceutical,50,True
+2,Minor Surgery,Surgical,2000,True
+3,Major Surgery,Surgical,15000,True
+4,Physical Therapy,Rehabilitation,120,False
+5,Lab Tests,Diagnostic,200,False
+6,X-Ray,Diagnostic,150,False
+7,MRI Scan,Diagnostic,800,False
+8,CT Scan,Diagnostic,600,False
+9,Blood Transfusion,Therapeutic,500,True
+10,Chemotherapy,Therapeutic,5000,True
+11,Counseling Session,Mental Health,100,False
+12,Vaccination,Preventive,40,False
+13,IV Fluids,Therapeutic,80,True
+14,Dialysis,Therapeutic,1500,True
+15,Cardiac Catheterization,Diagnostic,3000,True

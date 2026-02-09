@@ -1,0 +1,51 @@
+doctor_key,doctor_id,doctor_name,specialization,experience_level,consultation_fee
+1,DOC-001,Dr. Melissa Harris,Nephrology,Senior (11-20 yrs),75
+2,DOC-002,Dr. Deborah Lewis,General Practice,Senior (11-20 yrs),250
+3,DOC-003,Dr. Sarah Taylor,Cardiology,Senior (11-20 yrs),75
+4,DOC-004,Dr. Ashley Anderson,Pulmonology,Senior (11-20 yrs),50
+5,DOC-005,Dr. Ashley Ramirez,Endocrinology,Mid-Level (6-10 yrs),200
+6,DOC-006,Dr. William Rodriguez,Urology,Junior (1-5 yrs),75
+7,DOC-007,Dr. Joseph White,Pulmonology,Junior (1-5 yrs),50
+8,DOC-008,Dr. James Davis,General Practice,Expert (20+ yrs),200
+9,DOC-009,Dr. Matthew Robinson,Orthopedics,Mid-Level (6-10 yrs),50
+10,DOC-010,Dr. Emily Sanchez,Rheumatology,Expert (20+ yrs),125
+11,DOC-011,Dr. Christopher Davis,Oncology,Senior (11-20 yrs),150
+12,DOC-012,Dr. Robert Jackson,Dermatology,Junior (1-5 yrs),50
+13,DOC-013,Dr. Barbara Davis,Urology,Junior (1-5 yrs),250
+14,DOC-014,Dr. Robert Lewis,Gastroenterology,Senior (11-20 yrs),150
+15,DOC-015,Dr. Christopher Williams,Pulmonology,Expert (20+ yrs),50
+16,DOC-016,Dr. Nancy Miller,Pediatrics,Senior (11-20 yrs),125
+17,DOC-017,Dr. Sandra Lopez,Endocrinology,Expert (20+ yrs),125
+18,DOC-018,Dr. George Lewis,Pulmonology,Mid-Level (6-10 yrs),100
+19,DOC-019,Dr. James Robinson,Oncology,Junior (1-5 yrs),125
+20,DOC-020,Dr. Paul Lopez,Psychiatry,Junior (1-5 yrs),200
+21,DOC-021,Dr. James Harris,Psychiatry,Expert (20+ yrs),150
+22,DOC-022,Dr. Michael Miller,Pulmonology,Mid-Level (6-10 yrs),250
+23,DOC-023,Dr. Ashley Johnson,Orthopedics,Senior (11-20 yrs),75
+24,DOC-024,Dr. John Robinson,Neurology,Expert (20+ yrs),200
+25,DOC-025,Dr. Sandra White,Cardiology,Junior (1-5 yrs),100
+26,DOC-026,Dr. Kenneth Clark,Oncology,Junior (1-5 yrs),50
+27,DOC-027,Dr. Margaret Perez,Orthopedics,Mid-Level (6-10 yrs),150
+28,DOC-028,Dr. Thomas Ramirez,Dermatology,Expert (20+ yrs),200
+29,DOC-029,Dr. Christopher Anderson,Pediatrics,Mid-Level (6-10 yrs),75
+30,DOC-030,Dr. Richard Jones,Urology,Junior (1-5 yrs),100
+31,DOC-031,Dr. Michael Garcia,Gastroenterology,Expert (20+ yrs),200
+32,DOC-032,Dr. Anthony Brown,Pulmonology,Senior (11-20 yrs),125
+33,DOC-033,Dr. Mark Martinez,Gastroenterology,Senior (11-20 yrs),75
+34,DOC-034,Dr. Jennifer Garcia,Urology,Senior (11-20 yrs),50
+35,DOC-035,Dr. Susan Clark,Nephrology,Senior (11-20 yrs),100
+36,DOC-036,Dr. Jennifer Thompson,Neurology,Senior (11-20 yrs),250
+37,DOC-037,Dr. Steven Johnson,Psychiatry,Senior (11-20 yrs),150
+38,DOC-038,Dr. Barbara Smith,Oncology,Expert (20+ yrs),125
+39,DOC-039,Dr. Michael Anderson,Cardiology,Mid-Level (6-10 yrs),75
+40,DOC-040,Dr. James Johnson,Nephrology,Mid-Level (6-10 yrs),100
+41,DOC-041,Dr. Richard Clark,Oncology,Senior (11-20 yrs),75
+42,DOC-042,Dr. Donna Jackson,Pediatrics,Junior (1-5 yrs),50
+43,DOC-043,Dr. Robert Miller,Rheumatology,Expert (20+ yrs),100
+44,DOC-044,Dr. Jennifer Lewis,Nephrology,Senior (11-20 yrs),75
+45,DOC-045,Dr. John Anderson,General Practice,Mid-Level (6-10 yrs),250
+46,DOC-046,Dr. George Gonzalez,Gastroenterology,Junior (1-5 yrs),250
+47,DOC-047,Dr. Amanda Wilson,Orthopedics,Senior (11-20 yrs),125
+48,DOC-048,Dr. Barbara Rodriguez,Pediatrics,Expert (20+ yrs),100
+49,DOC-049,Dr. John Martin,Endocrinology,Mid-Level (6-10 yrs),150
+50,DOC-050,Dr. Ashley Wilson,Rheumatology,Expert (20+ yrs),50
