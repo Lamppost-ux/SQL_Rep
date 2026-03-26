@@ -1,0 +1,8 @@
+channel_key,channel_name,channel_type,is_self_service
+1,Mobile App,Digital,Yes
+2,Web Banking,Digital,Yes
+3,ATM,Physical,Yes
+4,Branch,Physical,No
+5,POS Terminal,Physical,Yes
+6,USSD,Digital,Yes
+7,Wire Transfer,Digital,No

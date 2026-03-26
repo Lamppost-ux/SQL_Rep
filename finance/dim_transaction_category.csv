@@ -1,0 +1,21 @@
+category_key,category_name,category_type,sub_type
+1,Groceries,Expense,Essential
+2,Rent/Mortgage,Expense,Essential
+3,Utilities,Expense,Essential
+4,Transportation,Expense,Essential
+5,Dining Out,Expense,Discretionary
+6,Entertainment,Expense,Discretionary
+7,Shopping,Expense,Discretionary
+8,Healthcare,Expense,Essential
+9,Education,Expense,Essential
+10,Salary,Income,Primary
+11,Freelance Income,Income,Secondary
+12,Investment Return,Income,Passive
+13,Transfer In,Transfer,Internal
+14,Transfer Out,Transfer,Internal
+15,Loan Payment,Expense,Debt
+16,Insurance,Expense,Essential
+17,Subscription,Expense,Discretionary
+18,Travel,Expense,Discretionary
+19,Gift/Donation,Expense,Discretionary
+20,Bonus,Income,Primary

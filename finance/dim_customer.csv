@@ -1,0 +1,801 @@
+customer_key,customer_id,first_name,last_name,gender,age,age_group,occupation,city,country,income_bracket,annual_income,credit_rating,customer_since_year
+1,CUST-0001,Joseph,Davis,Male,42,35-44,Doctor,Mumbai,India,Lower-Middle (30K-60K),35858,Good,2021
+2,CUST-0002,Carlos,Nnamdi,Male,57,55-64,Mechanic,Port Harcourt,Nigeria,Upper-Middle (60K-100K),87632,Excellent,2018
+3,CUST-0003,Lisa,Williams,Male,47,45-54,Retired,New York,USA,Upper-Middle (60K-100K),97153,Good,2015
+4,CUST-0004,Nancy,Nakamura,Male,53,45-54,Student,London,UK,Low (<30K),18676,Good,2018
+5,CUST-0005,Fatima,Garcia,Female,21,18-24,Pharmacist,Berlin,Germany,Lower-Middle (30K-60K),37072,Excellent,2017
+6,CUST-0006,Oluwaseun,Patel,Female,20,18-24,Doctor,Los Angeles,USA,Low (<30K),17609,Excellent,2016
+7,CUST-0007,Lisa,Jones,Female,37,35-44,Marketing Analyst,New York,USA,Upper-Middle (60K-100K),84973,Excellent,2015
+8,CUST-0008,Hans,Jones,Female,46,45-54,Retired,Chicago,USA,Lower-Middle (30K-60K),43240,Excellent,2017
+9,CUST-0009,Michael,Brown,Male,56,55-64,Lawyer,New York,USA,Very High (200K+),265204,Fair,2017
+10,CUST-0010,Christopher,Al-Rashid,Female,27,25-34,Entrepreneur,Tokyo,Japan,Very High (200K+),494107,Excellent,2016
+11,CUST-0011,Charles,Smith,Male,29,25-34,Architect,Sydney,Australia,Upper-Middle (60K-100K),92848,Fair,2021
+12,CUST-0012,Anthony,Mueller,Female,70,65+,Chef,Toronto,Canada,High (100K-200K),150585,Poor,2015
+13,CUST-0013,Joseph,Martinez,Male,64,55-64,Lawyer,Sydney,Australia,High (100K-200K),158192,Fair,2020
+14,CUST-0014,Fatima,Davis,Female,66,65+,Lawyer,Chicago,USA,High (100K-200K),188381,Good,2016
+15,CUST-0015,Robert,Eze,Female,44,35-44,Architect,Berlin,Germany,Very High (200K+),334329,Very Good,2023
+16,CUST-0016,Anthony,Patel,Male,34,25-34,Lawyer,New York,USA,Upper-Middle (60K-100K),79063,Good,2022
+17,CUST-0017,Daniel,Smith,Female,42,35-44,Lawyer,Chicago,USA,Lower-Middle (30K-60K),36476,Excellent,2018
+18,CUST-0018,Isabella,Al-Rashid,Male,68,65+,Trader,Los Angeles,USA,Upper-Middle (60K-100K),87309,Excellent,2020
+19,CUST-0019,Richard,Smith,Female,18,18-24,Sales Manager,Mumbai,India,Low (<30K),29424,Good,2022
+20,CUST-0020,Anthony,Balogun,Female,34,25-34,Marketing Analyst,Chicago,USA,High (100K-200K),196852,Very Good,2016
+21,CUST-0021,Anthony,Martinez,Female,22,18-24,Chef,Manchester,UK,Upper-Middle (60K-100K),63821,Very Good,2019
+22,CUST-0022,Betty,Santos,Male,66,65+,Civil Servant,Chicago,USA,Low (<30K),24932,Good,2017
+23,CUST-0023,Ahmed,Ibrahim,Female,46,45-54,Chef,New York,USA,High (100K-200K),191047,Excellent,2017
+24,CUST-0024,Chukwudi,Johansson,Female,34,25-34,Sales Manager,Sydney,Australia,Lower-Middle (30K-60K),45176,Excellent,2022
+25,CUST-0025,Emeka,Davis,Female,60,55-64,Freelancer,Paris,France,Lower-Middle (30K-60K),32449,Poor,2020
+26,CUST-0026,James,Olawale,Female,22,18-24,Software Engineer,Paris,France,Lower-Middle (30K-60K),54042,Very Good,2021
+27,CUST-0027,Betty,Johnson,Male,28,25-34,Architect,London,UK,Low (<30K),13556,Good,2023
+28,CUST-0028,Ahmed,Al-Rashid,Female,28,25-34,Entrepreneur,Manchester,UK,High (100K-200K),107537,Excellent,2016
+29,CUST-0029,Nancy,Williams,Male,28,25-34,Chef,Paris,France,Lower-Middle (30K-60K),51523,Fair,2020
+30,CUST-0030,David,Jones,Male,65,65+,Teacher,Port Harcourt,Nigeria,Upper-Middle (60K-100K),68237,Very Good,2021
+31,CUST-0031,Joseph,Nnamdi,Male,40,35-44,Architect,Los Angeles,USA,High (100K-200K),193971,Very Good,2020
+32,CUST-0032,Linda,Jones,Female,30,25-34,Freelancer,Tokyo,Japan,Lower-Middle (30K-60K),54210,Very Good,2015
+33,CUST-0033,Jessica,Olawale,Female,42,35-44,Pharmacist,Houston,USA,Very High (200K+),250838,Excellent,2016
+34,CUST-0034,Nancy,Rodriguez,Female,71,65+,Driver,Los Angeles,USA,Lower-Middle (30K-60K),44546,Poor,2021
+35,CUST-0035,James,Kim,Female,37,35-44,Chef,Lagos,Nigeria,Very High (200K+),269597,Good,2016
+36,CUST-0036,Daniel,Garcia,Female,45,45-54,Architect,Paris,France,High (100K-200K),105281,Very Good,2015
+37,CUST-0037,Funke,Jones,Male,70,65+,Lawyer,Mumbai,India,Lower-Middle (30K-60K),37426,Very Good,2021
+38,CUST-0038,Susan,Davis,Female,29,25-34,Sales Manager,Houston,USA,Upper-Middle (60K-100K),63576,Excellent,2016
+39,CUST-0039,Richard,Jones,Male,18,18-24,Lawyer,Tokyo,Japan,Upper-Middle (60K-100K),61881,Poor,2019
+40,CUST-0040,James,Nakamura,Male,55,55-64,Freelancer,Los Angeles,USA,High (100K-200K),119509,Good,2022
+41,CUST-0041,Margaret,Jones,Female,28,25-34,Pharmacist,Port Harcourt,Nigeria,Upper-Middle (60K-100K),82368,Poor,2023
+42,CUST-0042,Susan,Kumar,Male,32,25-34,Trader,Los Angeles,USA,High (100K-200K),163522,Very Good,2017
+43,CUST-0043,Barbara,Mueller,Female,48,45-54,Sales Manager,New York,USA,High (100K-200K),132560,Very Good,2023
+44,CUST-0044,Yuki,Kumar,Female,33,25-34,Farmer,Port Harcourt,Nigeria,Lower-Middle (30K-60K),37430,Good,2016
+45,CUST-0045,Lisa,Chukwu,Male,34,25-34,Nurse,Houston,USA,Lower-Middle (30K-60K),48500,Very Good,2015
+46,CUST-0046,Patricia,Patel,Female,45,45-54,Sales Manager,Abuja,Nigeria,Low (<30K),18213,Good,2019
+47,CUST-0047,Carlos,Adeyemi,Male,54,45-54,Sales Manager,Lagos,Nigeria,Upper-Middle (60K-100K),72860,Good,2017
+48,CUST-0048,Patricia,Smith,Female,51,45-54,Entrepreneur,Manchester,UK,Lower-Middle (30K-60K),44824,Fair,2016
+49,CUST-0049,Matthew,Davis,Male,19,18-24,Doctor,Mumbai,India,Lower-Middle (30K-60K),40419,Poor,2017
+50,CUST-0050,Hans,Williams,Male,32,25-34,Trader,Chicago,USA,Lower-Middle (30K-60K),38385,Fair,2021
+51,CUST-0051,Nancy,Chukwu,Female,62,55-64,Chef,Port Harcourt,Nigeria,High (100K-200K),195283,Excellent,2023
+52,CUST-0052,Sarah,Eze,Male,38,35-44,Doctor,London,UK,High (100K-200K),115294,Excellent,2018
+53,CUST-0053,Karen,Nnamdi,Male,38,35-44,Marketing Analyst,London,UK,Upper-Middle (60K-100K),77759,Good,2022
+54,CUST-0054,Ingrid,Ibrahim,Male,56,55-64,Software Engineer,Lagos,Nigeria,High (100K-200K),110175,Good,2022
+55,CUST-0055,Adebayo,Davis,Male,68,65+,Lawyer,Tokyo,Japan,Very High (200K+),368243,Good,2018
+56,CUST-0056,Isabella,Chukwu,Female,55,55-64,Pharmacist,Port Harcourt,Nigeria,Very High (200K+),437906,Poor,2015
+57,CUST-0057,Anthony,Miller,Female,54,45-54,Driver,Abuja,Nigeria,Low (<30K),16250,Very Good,2015
+58,CUST-0058,Raj,Chen,Male,69,65+,Software Engineer,Kano,Nigeria,Lower-Middle (30K-60K),36674,Excellent,2019
+59,CUST-0059,Barbara,Kumar,Female,71,65+,Nurse,Los Angeles,USA,Low (<30K),21399,Good,2017
+60,CUST-0060,Sarah,Eze,Female,42,35-44,Civil Servant,Tokyo,Japan,Upper-Middle (60K-100K),65091,Excellent,2017
+61,CUST-0061,Thomas,Chukwu,Female,64,55-64,Accountant,London,UK,Low (<30K),14288,Excellent,2022
+62,CUST-0062,Karen,Mueller,Female,72,65+,Civil Servant,Chicago,USA,Very High (200K+),462988,Good,2017
+63,CUST-0063,Adebayo,Jones,Male,36,35-44,Pharmacist,Berlin,Germany,Low (<30K),22784,Good,2023
+64,CUST-0064,Chukwudi,Smith,Female,32,25-34,Farmer,Port Harcourt,Nigeria,Upper-Middle (60K-100K),69475,Very Good,2016
+65,CUST-0065,Michael,Williams,Male,45,45-54,Marketing Analyst,Lagos,Nigeria,Low (<30K),27004,Excellent,2016
+66,CUST-0066,Carlos,Rodriguez,Female,37,35-44,Sales Manager,Houston,USA,Lower-Middle (30K-60K),34803,Excellent,2018
+67,CUST-0067,Susan,Martinez,Female,57,55-64,Architect,Port Harcourt,Nigeria,Low (<30K),12823,Good,2022
+68,CUST-0068,Susan,Adeyemi,Male,48,45-54,Teacher,London,UK,Upper-Middle (60K-100K),82901,Very Good,2023
+69,CUST-0069,Wei,Eze,Female,72,65+,Retired,Houston,USA,Lower-Middle (30K-60K),56189,Excellent,2020
+70,CUST-0070,Karen,Smith,Male,64,55-64,Pharmacist,Los Angeles,USA,Upper-Middle (60K-100K),94989,Very Good,2017
+71,CUST-0071,Christopher,Patel,Female,45,45-54,Mechanic,New York,USA,Low (<30K),29495,Fair,2020
+72,CUST-0072,Raj,Nakamura,Female,64,55-64,Trader,Kano,Nigeria,Upper-Middle (60K-100K),62157,Fair,2017
+73,CUST-0073,Betty,Okonkwo,Female,29,25-34,Mechanic,Abuja,Nigeria,Upper-Middle (60K-100K),91119,Very Good,2021
+74,CUST-0074,David,Williams,Female,24,18-24,Nurse,London,UK,Very High (200K+),384413,Excellent,2020
+75,CUST-0075,Linda,Nnamdi,Female,38,35-44,Civil Servant,Mumbai,India,Upper-Middle (60K-100K),98902,Good,2017
+76,CUST-0076,Charles,Kumar,Male,60,55-64,Chef,New York,USA,High (100K-200K),116992,Good,2019
+77,CUST-0077,David,Rodriguez,Female,33,25-34,Trader,New York,USA,Upper-Middle (60K-100K),96202,Very Good,2016
+78,CUST-0078,Oluwaseun,Chen,Male,19,18-24,Retired,Sydney,Australia,High (100K-200K),129946,Excellent,2018
+79,CUST-0079,Daniel,Abubakar,Male,26,25-34,Mechanic,Abuja,Nigeria,Upper-Middle (60K-100K),64580,Very Good,2023
+80,CUST-0080,Carlos,Tanaka,Male,22,18-24,Student,Abuja,Nigeria,Low (<30K),19081,Fair,2023
+81,CUST-0081,Susan,Tanaka,Male,49,45-54,Pharmacist,Berlin,Germany,Upper-Middle (60K-100K),60204,Fair,2021
+82,CUST-0082,Sandra,Martinez,Male,26,25-34,Teacher,Los Angeles,USA,Very High (200K+),487999,Good,2015
+83,CUST-0083,Hans,Chukwu,Male,54,45-54,Lawyer,Houston,USA,Lower-Middle (30K-60K),42170,Very Good,2017
+84,CUST-0084,Nancy,Abubakar,Male,68,65+,Trader,Abuja,Nigeria,Lower-Middle (30K-60K),56982,Excellent,2019
+85,CUST-0085,Jennifer,Ibrahim,Female,50,45-54,Civil Servant,Los Angeles,USA,Lower-Middle (30K-60K),57552,Excellent,2019
+86,CUST-0086,Ahmed,Rodriguez,Male,18,18-24,Sales Manager,Paris,France,Upper-Middle (60K-100K),61987,Excellent,2015
+87,CUST-0087,Thomas,Okafor,Female,51,45-54,Mechanic,Los Angeles,USA,High (100K-200K),139289,Good,2019
+88,CUST-0088,Funke,Balogun,Female,68,65+,Civil Servant,Sydney,Australia,Lower-Middle (30K-60K),35103,Very Good,2022
+89,CUST-0089,Chukwudi,Jones,Male,64,55-64,Freelancer,Toronto,Canada,Upper-Middle (60K-100K),81478,Good,2017
+90,CUST-0090,Lisa,Al-Rashid,Female,31,25-34,Chef,Berlin,Germany,Upper-Middle (60K-100K),86002,Good,2018
+91,CUST-0091,Hans,Davis,Female,23,18-24,Sales Manager,Port Harcourt,Nigeria,Lower-Middle (30K-60K),50600,Excellent,2021
+92,CUST-0092,Carlos,Johnson,Male,39,35-44,Retired,Houston,USA,Low (<30K),13950,Good,2019
+93,CUST-0093,Priya,Abubakar,Female,39,35-44,Pharmacist,Berlin,Germany,Upper-Middle (60K-100K),71959,Excellent,2021
+94,CUST-0094,Blessing,Nakamura,Male,35,35-44,Retired,Toronto,Canada,High (100K-200K),122103,Very Good,2017
+95,CUST-0095,Yuki,Eze,Female,46,45-54,Pharmacist,Paris,France,Upper-Middle (60K-100K),89795,Very Good,2023
+96,CUST-0096,Oluwaseun,Johnson,Female,57,55-64,Marketing Analyst,Berlin,Germany,Upper-Middle (60K-100K),66430,Fair,2022
+97,CUST-0097,Patricia,Tanaka,Male,42,35-44,Accountant,Lagos,Nigeria,Upper-Middle (60K-100K),80602,Excellent,2016
+98,CUST-0098,Linda,Jones,Male,52,45-54,Accountant,Tokyo,Japan,Very High (200K+),200173,Excellent,2019
+99,CUST-0099,John,Al-Rashid,Male,40,35-44,Teacher,Lagos,Nigeria,High (100K-200K),107886,Fair,2018
+100,CUST-0100,Sandra,Rodriguez,Female,51,45-54,Mechanic,Chicago,USA,High (100K-200K),124104,Excellent,2020
+101,CUST-0101,Mark,Brown,Male,33,25-34,Driver,Toronto,Canada,Lower-Middle (30K-60K),51156,Excellent,2018
+102,CUST-0102,Nancy,Okafor,Male,69,65+,Retired,Mumbai,India,Lower-Middle (30K-60K),56704,Good,2019
+103,CUST-0103,Mary,Rodriguez,Male,59,55-64,Architect,Paris,France,Upper-Middle (60K-100K),90770,Fair,2015
+104,CUST-0104,Ahmed,Nakamura,Male,63,55-64,Sales Manager,Tokyo,Japan,Very High (200K+),395605,Good,2020
+105,CUST-0105,Isabella,Kim,Female,61,55-64,Farmer,Toronto,Canada,Lower-Middle (30K-60K),40482,Fair,2018
+106,CUST-0106,Jennifer,Williams,Female,71,65+,Doctor,Manchester,UK,Very High (200K+),482339,Very Good,2018
+107,CUST-0107,Joseph,Johansson,Male,40,35-44,Teacher,Kano,Nigeria,Lower-Middle (30K-60K),40513,Excellent,2023
+108,CUST-0108,Priya,Smith,Female,69,65+,Architect,London,UK,Upper-Middle (60K-100K),71002,Fair,2019
+109,CUST-0109,Fatima,Olawale,Male,65,65+,Teacher,Paris,France,High (100K-200K),122212,Fair,2019
+110,CUST-0110,Charles,Chen,Female,48,45-54,Driver,Sydney,Australia,Low (<30K),16485,Good,2020
+111,CUST-0111,Linda,Mueller,Male,21,18-24,Chef,Houston,USA,Lower-Middle (30K-60K),44142,Fair,2018
+112,CUST-0112,Blessing,Mueller,Male,49,45-54,Marketing Analyst,Toronto,Canada,Lower-Middle (30K-60K),34578,Excellent,2023
+113,CUST-0113,Mark,Davis,Female,35,35-44,Freelancer,Berlin,Germany,Upper-Middle (60K-100K),72883,Poor,2018
+114,CUST-0114,Michael,Abubakar,Male,47,45-54,Sales Manager,Toronto,Canada,High (100K-200K),126899,Poor,2018
+115,CUST-0115,Jennifer,Garcia,Male,72,65+,Entrepreneur,London,UK,Upper-Middle (60K-100K),64632,Poor,2016
+116,CUST-0116,Nancy,Al-Rashid,Female,23,18-24,Sales Manager,Port Harcourt,Nigeria,Low (<30K),20819,Good,2015
+117,CUST-0117,Sandra,Okafor,Male,29,25-34,Mechanic,Tokyo,Japan,Upper-Middle (60K-100K),93592,Fair,2019
+118,CUST-0118,Raj,Miller,Male,56,55-64,Freelancer,Manchester,UK,Low (<30K),19091,Very Good,2018
+119,CUST-0119,Anthony,Tanaka,Male,25,25-34,Nurse,Berlin,Germany,Lower-Middle (30K-60K),48140,Poor,2022
+120,CUST-0120,David,Garcia,Female,68,65+,Doctor,Kano,Nigeria,High (100K-200K),126444,Very Good,2019
+121,CUST-0121,Ngozi,Al-Rashid,Male,68,65+,Pharmacist,Port Harcourt,Nigeria,Lower-Middle (30K-60K),57300,Good,2022
+122,CUST-0122,Ngozi,Balogun,Male,65,65+,Chef,London,UK,Upper-Middle (60K-100K),76633,Very Good,2022
+123,CUST-0123,Adebayo,Nnamdi,Male,66,65+,Accountant,Sydney,Australia,Upper-Middle (60K-100K),76063,Poor,2016
+124,CUST-0124,Ngozi,Jones,Female,56,55-64,Lawyer,Los Angeles,USA,Lower-Middle (30K-60K),58661,Very Good,2019
+125,CUST-0125,Patricia,Williams,Male,29,25-34,Freelancer,Mumbai,India,Upper-Middle (60K-100K),99215,Very Good,2020
+126,CUST-0126,Daniel,Olawale,Female,27,25-34,Sales Manager,New York,USA,Upper-Middle (60K-100K),91610,Good,2018
+127,CUST-0127,Blessing,Eze,Male,60,55-64,Retired,Chicago,USA,Lower-Middle (30K-60K),37275,Very Good,2017
+128,CUST-0128,Barbara,Miller,Female,35,35-44,Software Engineer,Paris,France,Upper-Middle (60K-100K),90104,Good,2019
+129,CUST-0129,Matthew,Al-Rashid,Male,72,65+,Pharmacist,Lagos,Nigeria,Lower-Middle (30K-60K),55253,Good,2023
+130,CUST-0130,Chukwudi,Nnamdi,Male,26,25-34,Chef,Port Harcourt,Nigeria,Lower-Middle (30K-60K),46813,Good,2017
+131,CUST-0131,Michael,Nnamdi,Female,68,65+,Lawyer,Lagos,Nigeria,Upper-Middle (60K-100K),91578,Very Good,2021
+132,CUST-0132,Aisha,Johansson,Female,18,18-24,Entrepreneur,Paris,France,Upper-Middle (60K-100K),89819,Good,2016
+133,CUST-0133,Isabella,Davis,Female,59,55-64,Driver,Lagos,Nigeria,Very High (200K+),284567,Fair,2018
+134,CUST-0134,Matthew,Mueller,Female,68,65+,Civil Servant,Paris,France,Low (<30K),19157,Excellent,2015
+135,CUST-0135,Matthew,Garcia,Female,31,25-34,Pharmacist,Los Angeles,USA,Upper-Middle (60K-100K),65478,Fair,2021
+136,CUST-0136,Lisa,Santos,Female,69,65+,Accountant,Manchester,UK,Low (<30K),14244,Fair,2023
+137,CUST-0137,Charles,Chukwu,Male,22,18-24,Chef,Port Harcourt,Nigeria,Lower-Middle (30K-60K),46796,Very Good,2020
+138,CUST-0138,Mark,Jones,Male,55,55-64,Accountant,Tokyo,Japan,Upper-Middle (60K-100K),71194,Good,2022
+139,CUST-0139,Robert,Nnamdi,Male,41,35-44,Marketing Analyst,London,UK,Upper-Middle (60K-100K),82980,Good,2023
+140,CUST-0140,Emeka,Johnson,Male,46,45-54,Doctor,Lagos,Nigeria,Upper-Middle (60K-100K),87968,Good,2021
+141,CUST-0141,Jessica,Abubakar,Female,19,18-24,Sales Manager,Paris,France,Lower-Middle (30K-60K),32479,Fair,2018
+142,CUST-0142,Ahmed,Williams,Female,42,35-44,Teacher,Toronto,Canada,Upper-Middle (60K-100K),83404,Very Good,2021
+143,CUST-0143,James,Kim,Female,69,65+,Chef,Mumbai,India,High (100K-200K),117583,Good,2019
+144,CUST-0144,Sandra,Adeyemi,Female,25,25-34,Sales Manager,Sydney,Australia,Lower-Middle (30K-60K),39690,Excellent,2015
+145,CUST-0145,John,Eze,Female,70,65+,Freelancer,Port Harcourt,Nigeria,Very High (200K+),468836,Excellent,2022
+146,CUST-0146,Oluwaseun,Garcia,Male,72,65+,Lawyer,Abuja,Nigeria,High (100K-200K),105938,Excellent,2021
+147,CUST-0147,Chukwudi,Chukwu,Female,20,18-24,Teacher,Toronto,Canada,Lower-Middle (30K-60K),38822,Fair,2016
+148,CUST-0148,Fatima,Al-Rashid,Female,51,45-54,Architect,Paris,France,Lower-Middle (30K-60K),35360,Fair,2023
+149,CUST-0149,Patricia,Al-Rashid,Male,46,45-54,Farmer,Kano,Nigeria,Very High (200K+),276254,Fair,2018
+150,CUST-0150,Mary,Rodriguez,Female,64,55-64,Mechanic,London,UK,Low (<30K),16680,Good,2018
+151,CUST-0151,Michael,Eze,Female,46,45-54,Teacher,Mumbai,India,Upper-Middle (60K-100K),80350,Very Good,2018
+152,CUST-0152,Margaret,Eze,Male,38,35-44,Architect,New York,USA,Low (<30K),16349,Good,2021
+153,CUST-0153,Daniel,Olawale,Male,32,25-34,Pharmacist,Sydney,Australia,High (100K-200K),108813,Excellent,2016
+154,CUST-0154,Christopher,Kumar,Female,52,45-54,Civil Servant,Abuja,Nigeria,Lower-Middle (30K-60K),31200,Fair,2016
+155,CUST-0155,Emeka,Williams,Female,60,55-64,Freelancer,Houston,USA,Low (<30K),15182,Fair,2023
+156,CUST-0156,David,Mueller,Female,47,45-54,Nurse,Kano,Nigeria,Lower-Middle (30K-60K),54337,Good,2023
+157,CUST-0157,Aisha,Al-Rashid,Female,71,65+,Sales Manager,London,UK,Upper-Middle (60K-100K),73969,Good,2023
+158,CUST-0158,Tunde,Smith,Male,67,65+,Pharmacist,London,UK,Upper-Middle (60K-100K),67937,Poor,2018
+159,CUST-0159,Aisha,Chen,Female,50,45-54,Student,Sydney,Australia,Upper-Middle (60K-100K),74219,Fair,2022
+160,CUST-0160,Linda,Smith,Male,37,35-44,Architect,Toronto,Canada,High (100K-200K),158860,Good,2018
+161,CUST-0161,Aisha,Johnson,Male,37,35-44,Architect,Manchester,UK,High (100K-200K),116901,Very Good,2020
+162,CUST-0162,Barbara,Miller,Male,29,25-34,Driver,Chicago,USA,Lower-Middle (30K-60K),44087,Poor,2015
+163,CUST-0163,Thomas,Kumar,Female,19,18-24,Marketing Analyst,Toronto,Canada,Very High (200K+),434619,Good,2021
+164,CUST-0164,Raj,Davis,Male,65,65+,Architect,Houston,USA,High (100K-200K),135900,Excellent,2015
+165,CUST-0165,Patricia,Nakamura,Female,22,18-24,Sales Manager,Port Harcourt,Nigeria,Upper-Middle (60K-100K),99706,Fair,2016
+166,CUST-0166,Anthony,Jones,Female,40,35-44,Farmer,Houston,USA,Upper-Middle (60K-100K),98077,Fair,2019
+167,CUST-0167,Daniel,Chukwu,Male,47,45-54,Retired,Mumbai,India,High (100K-200K),134191,Very Good,2023
+168,CUST-0168,Funke,Okonkwo,Female,41,35-44,Student,New York,USA,Lower-Middle (30K-60K),53925,Good,2019
+169,CUST-0169,Charles,Brown,Female,40,35-44,Teacher,Manchester,UK,Lower-Middle (30K-60K),35709,Good,2021
+170,CUST-0170,Betty,Garcia,Female,67,65+,Nurse,Chicago,USA,Upper-Middle (60K-100K),68023,Excellent,2022
+171,CUST-0171,Aisha,Abubakar,Male,21,18-24,Teacher,Houston,USA,Low (<30K),28176,Fair,2020
+172,CUST-0172,Jessica,Patel,Female,51,45-54,Architect,Paris,France,Lower-Middle (30K-60K),40071,Very Good,2021
+173,CUST-0173,Susan,Abubakar,Male,24,18-24,Software Engineer,Kano,Nigeria,Low (<30K),17649,Fair,2023
+174,CUST-0174,Charles,Garcia,Male,63,55-64,Mechanic,Chicago,USA,Very High (200K+),278741,Good,2016
+175,CUST-0175,Betty,Nakamura,Male,30,25-34,Architect,Port Harcourt,Nigeria,Upper-Middle (60K-100K),79255,Good,2019
+176,CUST-0176,Lisa,Nnamdi,Male,54,45-54,Retired,Port Harcourt,Nigeria,Upper-Middle (60K-100K),66185,Excellent,2016
+177,CUST-0177,Sandra,Adeyemi,Male,26,25-34,Farmer,Sydney,Australia,Lower-Middle (30K-60K),44198,Fair,2022
+178,CUST-0178,Richard,Olawale,Female,38,35-44,Civil Servant,Mumbai,India,Upper-Middle (60K-100K),88609,Fair,2016
+179,CUST-0179,William,Santos,Female,49,45-54,Chef,New York,USA,High (100K-200K),138612,Good,2015
+180,CUST-0180,Aisha,Smith,Male,20,18-24,Trader,Manchester,UK,Low (<30K),14206,Good,2019
+181,CUST-0181,Wei,Jones,Female,60,55-64,Nurse,Toronto,Canada,Lower-Middle (30K-60K),47616,Good,2018
+182,CUST-0182,James,Kim,Female,60,55-64,Teacher,New York,USA,Low (<30K),27870,Excellent,2015
+183,CUST-0183,Christopher,Miller,Male,29,25-34,Mechanic,Mumbai,India,Low (<30K),14151,Very Good,2019
+184,CUST-0184,Patricia,Okafor,Male,51,45-54,Mechanic,Kano,Nigeria,Lower-Middle (30K-60K),30553,Very Good,2015
+185,CUST-0185,Barbara,Balogun,Male,48,45-54,Nurse,Berlin,Germany,Upper-Middle (60K-100K),95815,Poor,2019
+186,CUST-0186,Betty,Miller,Female,65,65+,Architect,Los Angeles,USA,Low (<30K),27061,Poor,2019
+187,CUST-0187,Patricia,Santos,Male,54,45-54,Freelancer,Houston,USA,Upper-Middle (60K-100K),63739,Very Good,2015
+188,CUST-0188,Barbara,Al-Rashid,Female,27,25-34,Doctor,Abuja,Nigeria,Lower-Middle (30K-60K),39371,Fair,2021
+189,CUST-0189,Sarah,Chukwu,Male,30,25-34,Accountant,London,UK,Upper-Middle (60K-100K),72962,Very Good,2021
+190,CUST-0190,Funke,Patel,Male,63,55-64,Chef,Manchester,UK,Lower-Middle (30K-60K),42905,Good,2021
+191,CUST-0191,Ngozi,Okonkwo,Male,25,25-34,Entrepreneur,Chicago,USA,Low (<30K),26238,Good,2015
+192,CUST-0192,Yuki,Davis,Female,36,35-44,Pharmacist,Kano,Nigeria,Lower-Middle (30K-60K),57480,Very Good,2023
+193,CUST-0193,Karen,Miller,Male,19,18-24,Nurse,Tokyo,Japan,Upper-Middle (60K-100K),94370,Very Good,2015
+194,CUST-0194,Carlos,Miller,Female,18,18-24,Trader,Toronto,Canada,Lower-Middle (30K-60K),55159,Fair,2018
+195,CUST-0195,Margaret,Brown,Male,67,65+,Retired,Abuja,Nigeria,Upper-Middle (60K-100K),72018,Good,2021
+196,CUST-0196,Ahmed,Jones,Male,50,45-54,Software Engineer,Sydney,Australia,Upper-Middle (60K-100K),75584,Very Good,2022
+197,CUST-0197,Priya,Al-Rashid,Male,24,18-24,Chef,London,UK,Upper-Middle (60K-100K),77194,Excellent,2018
+198,CUST-0198,Sandra,Johansson,Male,33,25-34,Freelancer,Mumbai,India,High (100K-200K),110805,Good,2016
+199,CUST-0199,Robert,Johansson,Female,63,55-64,Marketing Analyst,Houston,USA,High (100K-200K),157702,Very Good,2020
+200,CUST-0200,Lisa,Okafor,Male,25,25-34,Student,Berlin,Germany,Low (<30K),17618,Good,2018
+201,CUST-0201,Matthew,Brown,Female,72,65+,Chef,Tokyo,Japan,Lower-Middle (30K-60K),43736,Poor,2016
+202,CUST-0202,Christopher,Kumar,Female,64,55-64,Pharmacist,Port Harcourt,Nigeria,Upper-Middle (60K-100K),69232,Excellent,2020
+203,CUST-0203,Jessica,Davis,Male,39,35-44,Teacher,Abuja,Nigeria,Low (<30K),28959,Good,2021
+204,CUST-0204,Chukwudi,Miller,Female,45,45-54,Lawyer,Los Angeles,USA,Upper-Middle (60K-100K),90840,Very Good,2015
+205,CUST-0205,Carlos,Nakamura,Female,31,25-34,Software Engineer,Kano,Nigeria,High (100K-200K),158500,Very Good,2021
+206,CUST-0206,Nancy,Kumar,Male,19,18-24,Trader,Mumbai,India,Lower-Middle (30K-60K),57915,Good,2019
+207,CUST-0207,Nancy,Nnamdi,Female,39,35-44,Farmer,Tokyo,Japan,Low (<30K),22162,Fair,2018
+208,CUST-0208,Margaret,Patel,Female,58,55-64,Sales Manager,Tokyo,Japan,Upper-Middle (60K-100K),80611,Good,2020
+209,CUST-0209,Elizabeth,Johnson,Female,48,45-54,Entrepreneur,Sydney,Australia,Lower-Middle (30K-60K),31182,Good,2019
+210,CUST-0210,Thomas,Kim,Male,40,35-44,Civil Servant,Port Harcourt,Nigeria,Lower-Middle (30K-60K),31250,Excellent,2019
+211,CUST-0211,Susan,Ibrahim,Male,25,25-34,Accountant,Berlin,Germany,Upper-Middle (60K-100K),79630,Very Good,2015
+212,CUST-0212,Patricia,Chukwu,Male,49,45-54,Freelancer,Sydney,Australia,Lower-Middle (30K-60K),38178,Fair,2019
+213,CUST-0213,Christopher,Mueller,Male,21,18-24,Marketing Analyst,Port Harcourt,Nigeria,Low (<30K),22300,Good,2017
+214,CUST-0214,Carlos,Smith,Male,34,25-34,Freelancer,Kano,Nigeria,Upper-Middle (60K-100K),97744,Very Good,2023
+215,CUST-0215,John,Patel,Male,23,18-24,Doctor,New York,USA,Lower-Middle (30K-60K),52545,Good,2023
+216,CUST-0216,Oluwaseun,Williams,Female,39,35-44,Nurse,Kano,Nigeria,High (100K-200K),103314,Excellent,2022
+217,CUST-0217,Yuki,Davis,Female,70,65+,Marketing Analyst,Kano,Nigeria,High (100K-200K),131084,Fair,2015
+218,CUST-0218,Ahmed,Johansson,Female,51,45-54,Pharmacist,Manchester,UK,Lower-Middle (30K-60K),35779,Good,2015
+219,CUST-0219,Susan,Kim,Male,54,45-54,Mechanic,Kano,Nigeria,High (100K-200K),173089,Good,2018
+220,CUST-0220,Jennifer,Okafor,Male,18,18-24,Freelancer,Kano,Nigeria,Upper-Middle (60K-100K),84282,Good,2023
+221,CUST-0221,Tunde,Patel,Male,66,65+,Sales Manager,Sydney,Australia,Lower-Middle (30K-60K),48985,Fair,2018
+222,CUST-0222,Funke,Brown,Male,33,25-34,Farmer,Sydney,Australia,Upper-Middle (60K-100K),99461,Excellent,2022
+223,CUST-0223,Chidinma,Johansson,Female,50,45-54,Trader,Manchester,UK,High (100K-200K),137399,Excellent,2023
+224,CUST-0224,Susan,Kim,Male,61,55-64,Civil Servant,Toronto,Canada,High (100K-200K),177785,Excellent,2021
+225,CUST-0225,Mark,Smith,Male,49,45-54,Retired,Abuja,Nigeria,Lower-Middle (30K-60K),57679,Fair,2023
+226,CUST-0226,Nancy,Kim,Female,61,55-64,Trader,Houston,USA,Upper-Middle (60K-100K),76685,Excellent,2019
+227,CUST-0227,Emeka,Ibrahim,Female,26,25-34,Pharmacist,Sydney,Australia,Lower-Middle (30K-60K),34761,Good,2017
+228,CUST-0228,Mark,Martinez,Male,25,25-34,Pharmacist,Berlin,Germany,High (100K-200K),173035,Poor,2021
+229,CUST-0229,Linda,Olawale,Male,51,45-54,Civil Servant,Berlin,Germany,Upper-Middle (60K-100K),91873,Poor,2023
+230,CUST-0230,Jessica,Smith,Male,38,35-44,Accountant,New York,USA,Very High (200K+),382347,Good,2020
+231,CUST-0231,Barbara,Nnamdi,Male,46,45-54,Doctor,Toronto,Canada,Very High (200K+),472791,Good,2021
+232,CUST-0232,Lisa,Davis,Male,36,35-44,Civil Servant,Toronto,Canada,Low (<30K),25926,Good,2015
+233,CUST-0233,Nancy,Garcia,Male,29,25-34,Retired,Manchester,UK,Upper-Middle (60K-100K),98840,Excellent,2023
+234,CUST-0234,Jennifer,Garcia,Male,25,25-34,Retired,Los Angeles,USA,Lower-Middle (30K-60K),56750,Poor,2022
+235,CUST-0235,Fatima,Johansson,Female,51,45-54,Trader,London,UK,Very High (200K+),348200,Good,2021
+236,CUST-0236,Chukwudi,Santos,Male,24,18-24,Entrepreneur,Chicago,USA,Low (<30K),29369,Good,2018
+237,CUST-0237,Priya,Tanaka,Male,37,35-44,Lawyer,Sydney,Australia,High (100K-200K),162082,Fair,2023
+238,CUST-0238,Sarah,Davis,Male,47,45-54,Farmer,Paris,France,Very High (200K+),218580,Very Good,2017
+239,CUST-0239,Sandra,Okonkwo,Female,68,65+,Teacher,Mumbai,India,Low (<30K),18758,Very Good,2022
+240,CUST-0240,Ngozi,Nnamdi,Male,68,65+,Accountant,Port Harcourt,Nigeria,Low (<30K),15810,Good,2019
+241,CUST-0241,Christopher,Balogun,Male,21,18-24,Retired,Toronto,Canada,Upper-Middle (60K-100K),77517,Very Good,2017
+242,CUST-0242,Hans,Nakamura,Male,68,65+,Retired,Los Angeles,USA,Lower-Middle (30K-60K),44209,Very Good,2016
+243,CUST-0243,Emeka,Nakamura,Female,33,25-34,Chef,New York,USA,Upper-Middle (60K-100K),94337,Excellent,2021
+244,CUST-0244,Funke,Davis,Male,49,45-54,Software Engineer,Abuja,Nigeria,Upper-Middle (60K-100K),61902,Excellent,2016
+245,CUST-0245,Tunde,Balogun,Male,72,65+,Doctor,Berlin,Germany,Lower-Middle (30K-60K),58503,Poor,2016
+246,CUST-0246,Sarah,Rodriguez,Female,56,55-64,Lawyer,Berlin,Germany,High (100K-200K),170749,Excellent,2020
+247,CUST-0247,Anthony,Balogun,Female,53,45-54,Teacher,Mumbai,India,Lower-Middle (30K-60K),50073,Poor,2023
+248,CUST-0248,Fatima,Balogun,Male,61,55-64,Marketing Analyst,Manchester,UK,Upper-Middle (60K-100K),65870,Very Good,2023
+249,CUST-0249,Michael,Olawale,Female,32,25-34,Mechanic,Port Harcourt,Nigeria,Upper-Middle (60K-100K),94843,Good,2016
+250,CUST-0250,Nancy,Williams,Female,66,65+,Mechanic,New York,USA,Low (<30K),14957,Very Good,2023
+251,CUST-0251,Mark,Patel,Male,40,35-44,Farmer,Manchester,UK,Very High (200K+),305624,Good,2016
+252,CUST-0252,Anthony,Johnson,Male,71,65+,Lawyer,New York,USA,Upper-Middle (60K-100K),61323,Good,2016
+253,CUST-0253,Ahmed,Williams,Female,59,55-64,Pharmacist,Houston,USA,High (100K-200K),112544,Excellent,2020
+254,CUST-0254,Adebayo,Adeyemi,Female,40,35-44,Lawyer,Chicago,USA,High (100K-200K),115467,Very Good,2021
+255,CUST-0255,Fatima,Okonkwo,Male,54,45-54,Marketing Analyst,Los Angeles,USA,Upper-Middle (60K-100K),68994,Excellent,2016
+256,CUST-0256,Thomas,Kim,Male,69,65+,Entrepreneur,Abuja,Nigeria,Lower-Middle (30K-60K),37323,Fair,2022
+257,CUST-0257,Michael,Johansson,Male,23,18-24,Driver,London,UK,Upper-Middle (60K-100K),62478,Very Good,2015
+258,CUST-0258,Chukwudi,Smith,Female,18,18-24,Teacher,Berlin,Germany,Low (<30K),24004,Very Good,2021
+259,CUST-0259,Ingrid,Smith,Female,34,25-34,Pharmacist,Los Angeles,USA,Lower-Middle (30K-60K),33077,Fair,2022
+260,CUST-0260,Raj,Mueller,Male,44,35-44,Student,Paris,France,Lower-Middle (30K-60K),56554,Fair,2022
+261,CUST-0261,Barbara,Nnamdi,Female,61,55-64,Driver,Abuja,Nigeria,Low (<30K),21756,Fair,2016
+262,CUST-0262,Barbara,Chen,Female,51,45-54,Chef,London,UK,Lower-Middle (30K-60K),58088,Excellent,2019
+263,CUST-0263,Sandra,Kumar,Female,59,55-64,Software Engineer,Kano,Nigeria,Very High (200K+),323469,Excellent,2016
+264,CUST-0264,Robert,Martinez,Female,35,35-44,Accountant,Los Angeles,USA,Upper-Middle (60K-100K),97823,Poor,2023
+265,CUST-0265,Richard,Balogun,Male,67,65+,Lawyer,Berlin,Germany,Upper-Middle (60K-100K),89683,Poor,2019
+266,CUST-0266,Thomas,Patel,Female,70,65+,Freelancer,Los Angeles,USA,High (100K-200K),106778,Good,2017
+267,CUST-0267,Chukwudi,Miller,Male,22,18-24,Architect,Mumbai,India,Upper-Middle (60K-100K),91848,Good,2021
+268,CUST-0268,Hans,Jones,Male,31,25-34,Entrepreneur,Paris,France,Low (<30K),27279,Very Good,2023
+269,CUST-0269,Richard,Smith,Male,33,25-34,Pharmacist,Los Angeles,USA,Upper-Middle (60K-100K),95268,Excellent,2019
+270,CUST-0270,Adebayo,Okonkwo,Male,58,55-64,Chef,Kano,Nigeria,Low (<30K),24438,Fair,2023
+271,CUST-0271,Karen,Mueller,Female,24,18-24,Doctor,Toronto,Canada,Upper-Middle (60K-100K),93729,Very Good,2020
+272,CUST-0272,Priya,Balogun,Female,40,35-44,Lawyer,Lagos,Nigeria,Upper-Middle (60K-100K),94035,Good,2021
+273,CUST-0273,David,Kim,Female,61,55-64,Doctor,Lagos,Nigeria,Very High (200K+),313971,Poor,2023
+274,CUST-0274,Emeka,Nnamdi,Female,18,18-24,Sales Manager,Mumbai,India,Very High (200K+),232752,Excellent,2020
+275,CUST-0275,Anthony,Johansson,Male,64,55-64,Software Engineer,Manchester,UK,Very High (200K+),460556,Excellent,2019
+276,CUST-0276,Christopher,Jones,Male,33,25-34,Software Engineer,Chicago,USA,High (100K-200K),142485,Excellent,2023
+277,CUST-0277,Funke,Okonkwo,Male,30,25-34,Retired,London,UK,Very High (200K+),338471,Excellent,2017
+278,CUST-0278,Chukwudi,Nnamdi,Female,61,55-64,Retired,Chicago,USA,Upper-Middle (60K-100K),80916,Excellent,2020
+279,CUST-0279,Sandra,Ibrahim,Male,64,55-64,Teacher,Lagos,Nigeria,Upper-Middle (60K-100K),72944,Excellent,2023
+280,CUST-0280,Fatima,Davis,Female,20,18-24,Lawyer,Abuja,Nigeria,High (100K-200K),193780,Poor,2016
+281,CUST-0281,William,Adeyemi,Male,32,25-34,Architect,London,UK,High (100K-200K),120759,Good,2023
+282,CUST-0282,Jessica,Chukwu,Female,58,55-64,Lawyer,Manchester,UK,High (100K-200K),147368,Poor,2022
+283,CUST-0283,Lisa,Chen,Male,70,65+,Doctor,Paris,France,Lower-Middle (30K-60K),52721,Very Good,2021
+284,CUST-0284,Matthew,Nnamdi,Female,55,55-64,Architect,London,UK,Lower-Middle (30K-60K),54380,Good,2019
+285,CUST-0285,Raj,Adeyemi,Male,55,55-64,Software Engineer,Manchester,UK,Upper-Middle (60K-100K),75062,Fair,2018
+286,CUST-0286,Anthony,Nakamura,Female,67,65+,Trader,Houston,USA,Low (<30K),25025,Good,2019
+287,CUST-0287,Oluwaseun,Davis,Male,26,25-34,Software Engineer,Sydney,Australia,Upper-Middle (60K-100K),92073,Very Good,2021
+288,CUST-0288,Tunde,Miller,Female,29,25-34,Lawyer,New York,USA,Upper-Middle (60K-100K),67332,Excellent,2015
+289,CUST-0289,Carlos,Nakamura,Male,18,18-24,Student,Lagos,Nigeria,Upper-Middle (60K-100K),97209,Excellent,2021
+290,CUST-0290,Lisa,Williams,Male,56,55-64,Nurse,Chicago,USA,Lower-Middle (30K-60K),43901,Very Good,2021
+291,CUST-0291,Sarah,Rodriguez,Male,56,55-64,Nurse,New York,USA,High (100K-200K),195075,Good,2023
+292,CUST-0292,Anthony,Kumar,Female,29,25-34,Pharmacist,Port Harcourt,Nigeria,Upper-Middle (60K-100K),70622,Excellent,2022
+293,CUST-0293,Richard,Eze,Female,53,45-54,Entrepreneur,New York,USA,Upper-Middle (60K-100K),67628,Excellent,2015
+294,CUST-0294,Susan,Adeyemi,Male,47,45-54,Farmer,Berlin,Germany,High (100K-200K),106701,Very Good,2022
+295,CUST-0295,Chidinma,Kumar,Female,53,45-54,Marketing Analyst,Houston,USA,Lower-Middle (30K-60K),51903,Fair,2017
+296,CUST-0296,Lisa,Nnamdi,Female,24,18-24,Driver,Kano,Nigeria,Lower-Middle (30K-60K),30066,Fair,2016
+297,CUST-0297,Ingrid,Martinez,Female,57,55-64,Accountant,Port Harcourt,Nigeria,Upper-Middle (60K-100K),95370,Fair,2019
+298,CUST-0298,James,Eze,Male,49,45-54,Student,London,UK,Low (<30K),20294,Very Good,2019
+299,CUST-0299,Michael,Rodriguez,Female,36,35-44,Accountant,Lagos,Nigeria,Low (<30K),27326,Good,2015
+300,CUST-0300,Ingrid,Kumar,Male,42,35-44,Marketing Analyst,Lagos,Nigeria,High (100K-200K),104970,Excellent,2019
+301,CUST-0301,Linda,Rodriguez,Male,30,25-34,Doctor,Toronto,Canada,Low (<30K),22451,Very Good,2023
+302,CUST-0302,Ahmed,Nnamdi,Female,70,65+,Trader,Toronto,Canada,Lower-Middle (30K-60K),35529,Good,2023
+303,CUST-0303,William,Olawale,Female,56,55-64,Farmer,Chicago,USA,Lower-Middle (30K-60K),59070,Very Good,2020
+304,CUST-0304,Susan,Al-Rashid,Male,52,45-54,Driver,Mumbai,India,High (100K-200K),194469,Good,2016
+305,CUST-0305,William,Olawale,Male,21,18-24,Architect,Abuja,Nigeria,Upper-Middle (60K-100K),93566,Fair,2019
+306,CUST-0306,Mark,Smith,Female,62,55-64,Freelancer,Abuja,Nigeria,High (100K-200K),167948,Excellent,2021
+307,CUST-0307,Anthony,Kim,Male,51,45-54,Student,Berlin,Germany,Very High (200K+),365265,Fair,2015
+308,CUST-0308,Elizabeth,Martinez,Female,69,65+,Teacher,Abuja,Nigeria,Very High (200K+),436495,Poor,2018
+309,CUST-0309,Nancy,Balogun,Female,20,18-24,Student,Houston,USA,Upper-Middle (60K-100K),92881,Very Good,2019
+310,CUST-0310,Joseph,Abubakar,Female,65,65+,Entrepreneur,Tokyo,Japan,Lower-Middle (30K-60K),45408,Good,2016
+311,CUST-0311,Patricia,Rodriguez,Male,60,55-64,Lawyer,Los Angeles,USA,Upper-Middle (60K-100K),82805,Very Good,2018
+312,CUST-0312,John,Johnson,Male,63,55-64,Marketing Analyst,Tokyo,Japan,Low (<30K),25444,Very Good,2021
+313,CUST-0313,Sandra,Mueller,Female,51,45-54,Civil Servant,Mumbai,India,High (100K-200K),156329,Good,2021
+314,CUST-0314,Mary,Kumar,Male,46,45-54,Freelancer,Abuja,Nigeria,High (100K-200K),163705,Excellent,2015
+315,CUST-0315,Susan,Ibrahim,Female,54,45-54,Marketing Analyst,Toronto,Canada,High (100K-200K),107198,Fair,2019
+316,CUST-0316,Jessica,Brown,Male,21,18-24,Accountant,New York,USA,High (100K-200K),197025,Good,2019
+317,CUST-0317,Raj,Eze,Male,35,35-44,Nurse,Kano,Nigeria,Upper-Middle (60K-100K),87711,Poor,2018
+318,CUST-0318,Adebayo,Miller,Male,60,55-64,Nurse,Lagos,Nigeria,Upper-Middle (60K-100K),85673,Good,2022
+319,CUST-0319,Chukwudi,Johnson,Female,58,55-64,Marketing Analyst,Berlin,Germany,High (100K-200K),114139,Good,2016
+320,CUST-0320,Nancy,Johnson,Female,38,35-44,Retired,Lagos,Nigeria,Lower-Middle (30K-60K),31627,Very Good,2020
+321,CUST-0321,Linda,Jones,Female,67,65+,Chef,Manchester,UK,Upper-Middle (60K-100K),77080,Good,2020
+322,CUST-0322,Tunde,Garcia,Male,67,65+,Student,Paris,France,Low (<30K),26589,Very Good,2023
+323,CUST-0323,Adebayo,Davis,Male,70,65+,Civil Servant,Sydney,Australia,Upper-Middle (60K-100K),69776,Good,2021
+324,CUST-0324,Fatima,Chukwu,Male,41,35-44,Trader,Paris,France,Upper-Middle (60K-100K),93681,Fair,2018
+325,CUST-0325,Isabella,Rodriguez,Male,27,25-34,Retired,New York,USA,Upper-Middle (60K-100K),99045,Good,2023
+326,CUST-0326,Ahmed,Nnamdi,Male,31,25-34,Driver,Port Harcourt,Nigeria,Lower-Middle (30K-60K),50756,Very Good,2018
+327,CUST-0327,William,Johnson,Female,43,35-44,Accountant,Sydney,Australia,Low (<30K),19463,Good,2019
+328,CUST-0328,Ngozi,Rodriguez,Female,72,65+,Architect,Manchester,UK,Lower-Middle (30K-60K),44973,Very Good,2018
+329,CUST-0329,Tunde,Smith,Male,46,45-54,Doctor,Mumbai,India,Very High (200K+),248821,Very Good,2015
+330,CUST-0330,Carlos,Adeyemi,Female,53,45-54,Civil Servant,Toronto,Canada,Lower-Middle (30K-60K),53508,Good,2016
+331,CUST-0331,Barbara,Rodriguez,Female,24,18-24,Pharmacist,Sydney,Australia,Lower-Middle (30K-60K),55698,Very Good,2022
+332,CUST-0332,Ngozi,Johansson,Female,67,65+,Mechanic,Houston,USA,Lower-Middle (30K-60K),40162,Very Good,2020
+333,CUST-0333,Aisha,Okonkwo,Female,63,55-64,Lawyer,Paris,France,Lower-Middle (30K-60K),40247,Good,2019
+334,CUST-0334,Daniel,Olawale,Female,32,25-34,Marketing Analyst,Berlin,Germany,Upper-Middle (60K-100K),91110,Good,2019
+335,CUST-0335,Richard,Johansson,Female,48,45-54,Software Engineer,Los Angeles,USA,Low (<30K),18411,Good,2020
+336,CUST-0336,David,Adeyemi,Male,51,45-54,Civil Servant,Abuja,Nigeria,Lower-Middle (30K-60K),50248,Excellent,2017
+337,CUST-0337,Ngozi,Smith,Female,61,55-64,Nurse,New York,USA,Upper-Middle (60K-100K),61323,Fair,2020
+338,CUST-0338,Mark,Okonkwo,Female,51,45-54,Student,Berlin,Germany,Upper-Middle (60K-100K),93795,Excellent,2018
+339,CUST-0339,Ahmed,Smith,Male,57,55-64,Farmer,Berlin,Germany,Upper-Middle (60K-100K),87573,Very Good,2023
+340,CUST-0340,James,Nakamura,Female,57,55-64,Civil Servant,Berlin,Germany,Upper-Middle (60K-100K),89963,Poor,2015
+341,CUST-0341,Hans,Okonkwo,Male,41,35-44,Chef,London,UK,Lower-Middle (30K-60K),54316,Very Good,2015
+342,CUST-0342,Ngozi,Al-Rashid,Male,37,35-44,Entrepreneur,Paris,France,High (100K-200K),115728,Very Good,2019
+343,CUST-0343,Lisa,Mueller,Male,28,25-34,Software Engineer,London,UK,High (100K-200K),123377,Fair,2023
+344,CUST-0344,Karen,Santos,Female,44,35-44,Teacher,Toronto,Canada,High (100K-200K),195560,Good,2016
+345,CUST-0345,Jennifer,Johnson,Male,43,35-44,Pharmacist,New York,USA,Lower-Middle (30K-60K),54465,Excellent,2018
+346,CUST-0346,Adebayo,Adeyemi,Female,32,25-34,Architect,New York,USA,Upper-Middle (60K-100K),60072,Good,2021
+347,CUST-0347,Susan,Johnson,Female,70,65+,Architect,Mumbai,India,Lower-Middle (30K-60K),37980,Poor,2020
+348,CUST-0348,Karen,Johansson,Female,49,45-54,Entrepreneur,Houston,USA,High (100K-200K),147542,Excellent,2020
+349,CUST-0349,William,Al-Rashid,Female,72,65+,Student,Kano,Nigeria,Very High (200K+),497786,Good,2017
+350,CUST-0350,Elizabeth,Abubakar,Female,60,55-64,Trader,Berlin,Germany,High (100K-200K),195315,Fair,2015
+351,CUST-0351,Thomas,Martinez,Male,55,55-64,Pharmacist,Houston,USA,Upper-Middle (60K-100K),84948,Poor,2022
+352,CUST-0352,Daniel,Smith,Male,60,55-64,Chef,Berlin,Germany,Upper-Middle (60K-100K),71386,Excellent,2022
+353,CUST-0353,William,Okafor,Female,26,25-34,Civil Servant,New York,USA,Upper-Middle (60K-100K),98096,Very Good,2015
+354,CUST-0354,Funke,Santos,Female,58,55-64,Lawyer,New York,USA,Upper-Middle (60K-100K),76817,Good,2017
+355,CUST-0355,Raj,Okonkwo,Female,67,65+,Software Engineer,Mumbai,India,Low (<30K),15121,Excellent,2018
+356,CUST-0356,Ahmed,Nnamdi,Female,29,25-34,Sales Manager,Manchester,UK,Lower-Middle (30K-60K),49450,Good,2019
+357,CUST-0357,Carlos,Williams,Male,34,25-34,Doctor,Tokyo,Japan,Lower-Middle (30K-60K),46350,Good,2023
+358,CUST-0358,Karen,Ibrahim,Male,18,18-24,Entrepreneur,Lagos,Nigeria,Upper-Middle (60K-100K),66746,Fair,2015
+359,CUST-0359,Robert,Johnson,Male,48,45-54,Marketing Analyst,Port Harcourt,Nigeria,Low (<30K),15227,Good,2020
+360,CUST-0360,Karen,Abubakar,Male,22,18-24,Architect,Sydney,Australia,Lower-Middle (30K-60K),39651,Excellent,2022
+361,CUST-0361,Richard,Chen,Male,18,18-24,Accountant,Abuja,Nigeria,High (100K-200K),193529,Poor,2020
+362,CUST-0362,Oluwaseun,Rodriguez,Male,52,45-54,Retired,Mumbai,India,Lower-Middle (30K-60K),52852,Very Good,2021
+363,CUST-0363,Oluwaseun,Kumar,Male,27,25-34,Student,Manchester,UK,High (100K-200K),134585,Fair,2019
+364,CUST-0364,Michael,Al-Rashid,Male,71,65+,Chef,Mumbai,India,High (100K-200K),174915,Excellent,2019
+365,CUST-0365,Aisha,Kumar,Female,49,45-54,Student,Sydney,Australia,Low (<30K),14655,Good,2018
+366,CUST-0366,William,Balogun,Male,72,65+,Pharmacist,Mumbai,India,High (100K-200K),110845,Very Good,2016
+367,CUST-0367,David,Davis,Female,58,55-64,Chef,Abuja,Nigeria,High (100K-200K),175899,Good,2018
+368,CUST-0368,Mary,Tanaka,Male,18,18-24,Entrepreneur,Port Harcourt,Nigeria,Lower-Middle (30K-60K),51257,Excellent,2019
+369,CUST-0369,Nancy,Olawale,Female,64,55-64,Student,Mumbai,India,High (100K-200K),144346,Fair,2022
+370,CUST-0370,Chukwudi,Smith,Female,43,35-44,Architect,Kano,Nigeria,Lower-Middle (30K-60K),35076,Poor,2021
+371,CUST-0371,Mark,Jones,Male,33,25-34,Software Engineer,Sydney,Australia,Lower-Middle (30K-60K),39028,Poor,2017
+372,CUST-0372,Jennifer,Garcia,Male,64,55-64,Software Engineer,Berlin,Germany,Upper-Middle (60K-100K),84733,Fair,2017
+373,CUST-0373,Wei,Balogun,Male,27,25-34,Mechanic,Sydney,Australia,Lower-Middle (30K-60K),46457,Excellent,2018
+374,CUST-0374,Charles,Patel,Female,24,18-24,Chef,Berlin,Germany,Upper-Middle (60K-100K),94078,Excellent,2018
+375,CUST-0375,Jessica,Abubakar,Female,40,35-44,Civil Servant,Manchester,UK,Lower-Middle (30K-60K),32388,Very Good,2019
+376,CUST-0376,Yuki,Nakamura,Female,49,45-54,Student,Mumbai,India,Lower-Middle (30K-60K),40963,Excellent,2017
+377,CUST-0377,Margaret,Nakamura,Male,63,55-64,Marketing Analyst,Paris,France,Upper-Middle (60K-100K),62099,Good,2017
+378,CUST-0378,Linda,Rodriguez,Female,65,65+,Nurse,Tokyo,Japan,Low (<30K),19400,Good,2017
+379,CUST-0379,Linda,Mueller,Male,59,55-64,Lawyer,Paris,France,Upper-Middle (60K-100K),69274,Fair,2023
+380,CUST-0380,Isabella,Chen,Female,32,25-34,Chef,Tokyo,Japan,Upper-Middle (60K-100K),96392,Very Good,2019
+381,CUST-0381,David,Rodriguez,Female,38,35-44,Sales Manager,Sydney,Australia,Lower-Middle (30K-60K),49753,Good,2016
+382,CUST-0382,Sandra,Nakamura,Male,36,35-44,Trader,Port Harcourt,Nigeria,Very High (200K+),439018,Fair,2017
+383,CUST-0383,Nancy,Okonkwo,Male,18,18-24,Marketing Analyst,Chicago,USA,Upper-Middle (60K-100K),99604,Very Good,2018
+384,CUST-0384,Oluwaseun,Okafor,Male,61,55-64,Mechanic,Abuja,Nigeria,Lower-Middle (30K-60K),37016,Poor,2017
+385,CUST-0385,Nancy,Abubakar,Female,38,35-44,Doctor,Manchester,UK,Lower-Middle (30K-60K),44477,Excellent,2016
+386,CUST-0386,Mark,Jones,Female,62,55-64,Marketing Analyst,Toronto,Canada,Upper-Middle (60K-100K),84642,Poor,2022
+387,CUST-0387,Emeka,Balogun,Female,50,45-54,Retired,Paris,France,Lower-Middle (30K-60K),58679,Good,2020
+388,CUST-0388,Matthew,Davis,Male,60,55-64,Student,Toronto,Canada,Lower-Middle (30K-60K),34319,Good,2017
+389,CUST-0389,Betty,Rodriguez,Male,68,65+,Software Engineer,Houston,USA,Very High (200K+),347711,Fair,2016
+390,CUST-0390,Mark,Santos,Male,23,18-24,Freelancer,London,UK,Lower-Middle (30K-60K),49318,Fair,2015
+391,CUST-0391,Linda,Ibrahim,Male,27,25-34,Mechanic,Abuja,Nigeria,Lower-Middle (30K-60K),32383,Excellent,2022
+392,CUST-0392,Richard,Miller,Female,66,65+,Mechanic,Sydney,Australia,Very High (200K+),245165,Poor,2015
+393,CUST-0393,Chidinma,Abubakar,Male,30,25-34,Retired,Manchester,UK,Lower-Middle (30K-60K),44308,Very Good,2017
+394,CUST-0394,Susan,Johansson,Female,61,55-64,Sales Manager,Paris,France,Upper-Middle (60K-100K),88803,Good,2019
+395,CUST-0395,Matthew,Al-Rashid,Female,39,35-44,Sales Manager,London,UK,Lower-Middle (30K-60K),49267,Poor,2019
+396,CUST-0396,Chidinma,Davis,Male,36,35-44,Marketing Analyst,Lagos,Nigeria,Lower-Middle (30K-60K),41356,Good,2017
+397,CUST-0397,Joseph,Martinez,Male,45,45-54,Sales Manager,Port Harcourt,Nigeria,Very High (200K+),485881,Fair,2021
+398,CUST-0398,Richard,Jones,Female,59,55-64,Accountant,Los Angeles,USA,Upper-Middle (60K-100K),81684,Good,2023
+399,CUST-0399,Chukwudi,Kumar,Male,41,35-44,Architect,Houston,USA,Lower-Middle (30K-60K),54377,Good,2021
+400,CUST-0400,Matthew,Ibrahim,Male,24,18-24,Architect,Tokyo,Japan,High (100K-200K),109522,Very Good,2017
+401,CUST-0401,Yuki,Brown,Female,71,65+,Entrepreneur,Kano,Nigeria,Lower-Middle (30K-60K),53708,Poor,2020
+402,CUST-0402,Nancy,Okonkwo,Male,34,25-34,Student,London,UK,Lower-Middle (30K-60K),35854,Fair,2019
+403,CUST-0403,Chukwudi,Chen,Male,56,55-64,Marketing Analyst,Houston,USA,Very High (200K+),348290,Excellent,2015
+404,CUST-0404,Robert,Chen,Female,27,25-34,Civil Servant,Chicago,USA,Lower-Middle (30K-60K),56459,Very Good,2021
+405,CUST-0405,Carlos,Smith,Female,46,45-54,Student,Abuja,Nigeria,Very High (200K+),397951,Poor,2018
+406,CUST-0406,James,Adeyemi,Male,30,25-34,Accountant,New York,USA,Low (<30K),28294,Excellent,2023
+407,CUST-0407,Robert,Kumar,Male,28,25-34,Nurse,Manchester,UK,Upper-Middle (60K-100K),71404,Excellent,2020
+408,CUST-0408,Linda,Martinez,Female,52,45-54,Sales Manager,Los Angeles,USA,Lower-Middle (30K-60K),37674,Poor,2017
+409,CUST-0409,Daniel,Okafor,Male,30,25-34,Mechanic,Tokyo,Japan,Lower-Middle (30K-60K),41962,Good,2015
+410,CUST-0410,Betty,Rodriguez,Male,28,25-34,Nurse,Chicago,USA,High (100K-200K),182069,Fair,2017
+411,CUST-0411,Adebayo,Okafor,Male,49,45-54,Chef,London,UK,Low (<30K),16473,Good,2018
+412,CUST-0412,Wei,Eze,Female,22,18-24,Lawyer,Toronto,Canada,Upper-Middle (60K-100K),95897,Very Good,2018
+413,CUST-0413,Karen,Kumar,Female,28,25-34,Farmer,Berlin,Germany,Lower-Middle (30K-60K),47321,Excellent,2015
+414,CUST-0414,Hans,Balogun,Male,68,65+,Software Engineer,Tokyo,Japan,Upper-Middle (60K-100K),85769,Good,2022
+415,CUST-0415,Lisa,Johnson,Male,64,55-64,Mechanic,Manchester,UK,Lower-Middle (30K-60K),34120,Good,2018
+416,CUST-0416,Jessica,Williams,Female,68,65+,Driver,Toronto,Canada,High (100K-200K),121867,Poor,2017
+417,CUST-0417,Fatima,Patel,Male,46,45-54,Driver,Mumbai,India,Upper-Middle (60K-100K),90010,Excellent,2017
+418,CUST-0418,Chukwudi,Miller,Male,56,55-64,Marketing Analyst,New York,USA,Lower-Middle (30K-60K),56252,Good,2023
+419,CUST-0419,Ingrid,Al-Rashid,Female,50,45-54,Nurse,Berlin,Germany,High (100K-200K),139880,Good,2022
+420,CUST-0420,Blessing,Kumar,Male,55,55-64,Software Engineer,Abuja,Nigeria,Upper-Middle (60K-100K),80979,Excellent,2022
+421,CUST-0421,Emeka,Nakamura,Male,53,45-54,Architect,Berlin,Germany,Lower-Middle (30K-60K),43768,Good,2023
+422,CUST-0422,Barbara,Santos,Female,27,25-34,Lawyer,Tokyo,Japan,Very High (200K+),239366,Excellent,2019
+423,CUST-0423,Matthew,Brown,Female,63,55-64,Freelancer,Tokyo,Japan,Lower-Middle (30K-60K),34206,Fair,2016
+424,CUST-0424,Raj,Al-Rashid,Female,66,65+,Pharmacist,Berlin,Germany,Very High (200K+),385216,Very Good,2017
+425,CUST-0425,Chukwudi,Johansson,Female,54,45-54,Civil Servant,New York,USA,Upper-Middle (60K-100K),83990,Excellent,2023
+426,CUST-0426,Hans,Martinez,Male,71,65+,Mechanic,Tokyo,Japan,Lower-Middle (30K-60K),32054,Very Good,2020
+427,CUST-0427,Richard,Rodriguez,Female,52,45-54,Nurse,London,UK,Lower-Middle (30K-60K),47765,Good,2020
+428,CUST-0428,Matthew,Brown,Male,70,65+,Software Engineer,Lagos,Nigeria,Lower-Middle (30K-60K),48078,Good,2019
+429,CUST-0429,Sandra,Martinez,Female,59,55-64,Architect,Sydney,Australia,Very High (200K+),200193,Good,2021
+430,CUST-0430,Mary,Tanaka,Female,56,55-64,Accountant,Manchester,UK,Upper-Middle (60K-100K),76668,Good,2019
+431,CUST-0431,Matthew,Ibrahim,Male,68,65+,Trader,New York,USA,Lower-Middle (30K-60K),39442,Fair,2020
+432,CUST-0432,Charles,Miller,Female,64,55-64,Mechanic,Paris,France,Upper-Middle (60K-100K),68282,Good,2022
+433,CUST-0433,Nancy,Rodriguez,Male,21,18-24,Pharmacist,Houston,USA,Very High (200K+),282576,Excellent,2020
+434,CUST-0434,Sarah,Santos,Female,28,25-34,Mechanic,Lagos,Nigeria,Low (<30K),15737,Very Good,2020
+435,CUST-0435,Wei,Al-Rashid,Female,68,65+,Accountant,Chicago,USA,High (100K-200K),194814,Excellent,2015
+436,CUST-0436,Thomas,Rodriguez,Female,62,55-64,Mechanic,Toronto,Canada,Lower-Middle (30K-60K),33849,Excellent,2018
+437,CUST-0437,Christopher,Garcia,Female,23,18-24,Student,Los Angeles,USA,High (100K-200K),112066,Good,2020
+438,CUST-0438,Chukwudi,Kim,Male,27,25-34,Architect,Los Angeles,USA,High (100K-200K),110030,Excellent,2022
+439,CUST-0439,Priya,Martinez,Male,65,65+,Driver,London,UK,Very High (200K+),228444,Very Good,2015
+440,CUST-0440,James,Brown,Female,60,55-64,Entrepreneur,Chicago,USA,Upper-Middle (60K-100K),71783,Very Good,2017
+441,CUST-0441,Barbara,Miller,Female,32,25-34,Pharmacist,Manchester,UK,Lower-Middle (30K-60K),53608,Good,2015
+442,CUST-0442,Joseph,Miller,Male,47,45-54,Nurse,Paris,France,Very High (200K+),350860,Excellent,2016
+443,CUST-0443,Margaret,Eze,Female,47,45-54,Farmer,Toronto,Canada,Lower-Middle (30K-60K),32833,Poor,2019
+444,CUST-0444,Elizabeth,Jones,Male,57,55-64,Accountant,Kano,Nigeria,Low (<30K),22712,Good,2020
+445,CUST-0445,Nancy,Davis,Female,56,55-64,Marketing Analyst,Kano,Nigeria,Low (<30K),14868,Good,2015
+446,CUST-0446,Wei,Tanaka,Male,65,65+,Pharmacist,Los Angeles,USA,Upper-Middle (60K-100K),91824,Poor,2023
+447,CUST-0447,Richard,Rodriguez,Female,52,45-54,Marketing Analyst,Houston,USA,Lower-Middle (30K-60K),43496,Excellent,2018
+448,CUST-0448,Yuki,Rodriguez,Male,19,18-24,Pharmacist,Los Angeles,USA,Low (<30K),12070,Excellent,2019
+449,CUST-0449,David,Eze,Male,69,65+,Pharmacist,Abuja,Nigeria,Upper-Middle (60K-100K),80154,Excellent,2023
+450,CUST-0450,Betty,Patel,Male,40,35-44,Freelancer,Chicago,USA,Low (<30K),17579,Very Good,2020
+451,CUST-0451,Lisa,Chen,Male,34,25-34,Farmer,Paris,France,Upper-Middle (60K-100K),89548,Good,2016
+452,CUST-0452,Richard,Abubakar,Male,62,55-64,Mechanic,Paris,France,Very High (200K+),371232,Very Good,2023
+453,CUST-0453,Isabella,Mueller,Female,27,25-34,Mechanic,Chicago,USA,Upper-Middle (60K-100K),61075,Very Good,2015
+454,CUST-0454,Adebayo,Miller,Female,72,65+,Mechanic,Paris,France,Upper-Middle (60K-100K),75484,Fair,2017
+455,CUST-0455,Richard,Eze,Female,72,65+,Civil Servant,London,UK,Upper-Middle (60K-100K),97098,Good,2017
+456,CUST-0456,Karen,Eze,Male,62,55-64,Accountant,Los Angeles,USA,Upper-Middle (60K-100K),99617,Good,2022
+457,CUST-0457,Jessica,Okafor,Female,29,25-34,Mechanic,Los Angeles,USA,Low (<30K),24563,Good,2016
+458,CUST-0458,Joseph,Davis,Female,24,18-24,Doctor,Sydney,Australia,High (100K-200K),128933,Good,2019
+459,CUST-0459,Priya,Adeyemi,Male,36,35-44,Nurse,Los Angeles,USA,Lower-Middle (30K-60K),34909,Very Good,2019
+460,CUST-0460,Christopher,Williams,Female,53,45-54,Chef,Port Harcourt,Nigeria,Upper-Middle (60K-100K),67437,Good,2017
+461,CUST-0461,Chukwudi,Brown,Male,24,18-24,Driver,London,UK,Lower-Middle (30K-60K),41442,Good,2021
+462,CUST-0462,Ahmed,Santos,Female,47,45-54,Software Engineer,Tokyo,Japan,Lower-Middle (30K-60K),38145,Excellent,2018
+463,CUST-0463,David,Okafor,Male,59,55-64,Chef,Berlin,Germany,Low (<30K),22281,Good,2018
+464,CUST-0464,Emeka,Okafor,Male,45,45-54,Lawyer,Sydney,Australia,Very High (200K+),378256,Poor,2021
+465,CUST-0465,Anthony,Jones,Female,44,35-44,Student,Chicago,USA,Lower-Middle (30K-60K),41387,Good,2017
+466,CUST-0466,Sandra,Garcia,Female,48,45-54,Software Engineer,Los Angeles,USA,Lower-Middle (30K-60K),47209,Excellent,2018
+467,CUST-0467,Chukwudi,Nnamdi,Male,56,55-64,Lawyer,Toronto,Canada,Very High (200K+),486342,Good,2016
+468,CUST-0468,Sandra,Al-Rashid,Male,37,35-44,Freelancer,Berlin,Germany,High (100K-200K),180232,Excellent,2016
+469,CUST-0469,Margaret,Adeyemi,Male,41,35-44,Mechanic,Manchester,UK,Upper-Middle (60K-100K),65331,Good,2020
+470,CUST-0470,Jessica,Nnamdi,Male,38,35-44,Chef,Paris,France,Very High (200K+),375669,Poor,2017
+471,CUST-0471,Jennifer,Santos,Female,40,35-44,Retired,London,UK,High (100K-200K),125402,Fair,2018
+472,CUST-0472,Ingrid,Nakamura,Female,35,35-44,Teacher,Berlin,Germany,Lower-Middle (30K-60K),59173,Fair,2019
+473,CUST-0473,Daniel,Mueller,Female,68,65+,Nurse,Lagos,Nigeria,Upper-Middle (60K-100K),82983,Good,2017
+474,CUST-0474,Raj,Chen,Male,39,35-44,Doctor,New York,USA,Low (<30K),22616,Good,2019
+475,CUST-0475,Sandra,Balogun,Female,70,65+,Architect,Los Angeles,USA,Upper-Middle (60K-100K),83634,Good,2018
+476,CUST-0476,Margaret,Al-Rashid,Male,35,35-44,Farmer,Paris,France,Upper-Middle (60K-100K),96632,Very Good,2019
+477,CUST-0477,Aisha,Okonkwo,Male,19,18-24,Sales Manager,Sydney,Australia,Low (<30K),15128,Good,2019
+478,CUST-0478,Isabella,Patel,Male,63,55-64,Retired,Port Harcourt,Nigeria,Lower-Middle (30K-60K),58083,Good,2020
+479,CUST-0479,Raj,Rodriguez,Female,42,35-44,Architect,Manchester,UK,High (100K-200K),136522,Poor,2022
+480,CUST-0480,Ngozi,Abubakar,Male,58,55-64,Entrepreneur,London,UK,Lower-Middle (30K-60K),58400,Excellent,2019
+481,CUST-0481,Aisha,Williams,Female,61,55-64,Teacher,London,UK,Lower-Middle (30K-60K),33416,Poor,2017
+482,CUST-0482,Thomas,Mueller,Female,49,45-54,Entrepreneur,Toronto,Canada,Lower-Middle (30K-60K),55075,Excellent,2018
+483,CUST-0483,Margaret,Olawale,Female,42,35-44,Trader,Lagos,Nigeria,Upper-Middle (60K-100K),68303,Fair,2018
+484,CUST-0484,Christopher,Mueller,Male,38,35-44,Freelancer,New York,USA,High (100K-200K),119272,Very Good,2018
+485,CUST-0485,Raj,Okonkwo,Female,27,25-34,Teacher,Manchester,UK,Upper-Middle (60K-100K),62500,Excellent,2019
+486,CUST-0486,Chidinma,Adeyemi,Male,69,65+,Architect,Manchester,UK,Upper-Middle (60K-100K),70853,Excellent,2020
+487,CUST-0487,Wei,Chen,Male,56,55-64,Doctor,Berlin,Germany,Very High (200K+),206721,Good,2022
+488,CUST-0488,Patricia,Johansson,Female,18,18-24,Freelancer,Sydney,Australia,Upper-Middle (60K-100K),89039,Fair,2018
+489,CUST-0489,David,Okonkwo,Male,59,55-64,Pharmacist,New York,USA,Lower-Middle (30K-60K),55759,Very Good,2016
+490,CUST-0490,Elizabeth,Okonkwo,Female,46,45-54,Accountant,Sydney,Australia,High (100K-200K),117063,Very Good,2019
+491,CUST-0491,Oluwaseun,Ibrahim,Male,31,25-34,Doctor,Chicago,USA,Lower-Middle (30K-60K),42004,Very Good,2015
+492,CUST-0492,Joseph,Kim,Male,54,45-54,Architect,Chicago,USA,Low (<30K),25303,Good,2020
+493,CUST-0493,Jennifer,Johnson,Female,19,18-24,Nurse,Chicago,USA,Upper-Middle (60K-100K),76773,Good,2018
+494,CUST-0494,Carlos,Brown,Male,57,55-64,Teacher,Houston,USA,Low (<30K),20046,Fair,2019
+495,CUST-0495,Aisha,Martinez,Female,58,55-64,Chef,Paris,France,High (100K-200K),159082,Excellent,2022
+496,CUST-0496,Charles,Martinez,Male,33,25-34,Civil Servant,Manchester,UK,Upper-Middle (60K-100K),94294,Good,2020
+497,CUST-0497,Christopher,Brown,Male,39,35-44,Sales Manager,London,UK,Lower-Middle (30K-60K),38132,Fair,2016
+498,CUST-0498,Chukwudi,Chukwu,Female,51,45-54,Sales Manager,London,UK,Low (<30K),20018,Very Good,2017
+499,CUST-0499,Mary,Johansson,Female,71,65+,Architect,Mumbai,India,Low (<30K),20748,Poor,2020
+500,CUST-0500,Adebayo,Patel,Female,45,45-54,Accountant,Port Harcourt,Nigeria,Low (<30K),14958,Poor,2021
+501,CUST-0501,Margaret,Miller,Female,36,35-44,Sales Manager,Houston,USA,Very High (200K+),320856,Excellent,2023
+502,CUST-0502,Oluwaseun,Eze,Female,24,18-24,Doctor,Port Harcourt,Nigeria,Low (<30K),12565,Good,2019
+503,CUST-0503,David,Al-Rashid,Male,39,35-44,Doctor,Berlin,Germany,High (100K-200K),124841,Good,2021
+504,CUST-0504,Joseph,Kumar,Male,28,25-34,Doctor,London,UK,Very High (200K+),450207,Good,2020
+505,CUST-0505,Wei,Okonkwo,Male,58,55-64,Lawyer,Mumbai,India,Very High (200K+),283055,Good,2022
+506,CUST-0506,Hans,Ibrahim,Male,55,55-64,Architect,Paris,France,High (100K-200K),189184,Excellent,2022
+507,CUST-0507,Aisha,Santos,Male,51,45-54,Entrepreneur,Kano,Nigeria,High (100K-200K),166459,Excellent,2023
+508,CUST-0508,Matthew,Kim,Male,32,25-34,Chef,Berlin,Germany,Upper-Middle (60K-100K),94357,Excellent,2021
+509,CUST-0509,Ahmed,Davis,Female,25,25-34,Pharmacist,Houston,USA,Lower-Middle (30K-60K),44453,Very Good,2019
+510,CUST-0510,Ngozi,Nnamdi,Male,27,25-34,Trader,New York,USA,High (100K-200K),193478,Good,2019
+511,CUST-0511,Linda,Smith,Female,64,55-64,Freelancer,Houston,USA,Upper-Middle (60K-100K),78950,Very Good,2019
+512,CUST-0512,Charles,Eze,Male,46,45-54,Civil Servant,New York,USA,Upper-Middle (60K-100K),61553,Very Good,2023
+513,CUST-0513,Richard,Smith,Female,55,55-64,Pharmacist,Port Harcourt,Nigeria,Upper-Middle (60K-100K),64081,Very Good,2021
+514,CUST-0514,Raj,Brown,Male,23,18-24,Architect,Mumbai,India,Lower-Middle (30K-60K),34303,Good,2023
+515,CUST-0515,Oluwaseun,Adeyemi,Male,61,55-64,Nurse,Los Angeles,USA,Upper-Middle (60K-100K),63954,Very Good,2023
+516,CUST-0516,Carlos,Kim,Female,39,35-44,Marketing Analyst,Abuja,Nigeria,Lower-Middle (30K-60K),52030,Excellent,2022
+517,CUST-0517,Robert,Mueller,Male,55,55-64,Lawyer,Abuja,Nigeria,Upper-Middle (60K-100K),70634,Very Good,2019
+518,CUST-0518,Jennifer,Al-Rashid,Female,20,18-24,Civil Servant,Toronto,Canada,Lower-Middle (30K-60K),33612,Excellent,2018
+519,CUST-0519,David,Nakamura,Female,72,65+,Sales Manager,Sydney,Australia,Upper-Middle (60K-100K),92644,Very Good,2017
+520,CUST-0520,Jennifer,Jones,Male,72,65+,Trader,Sydney,Australia,Low (<30K),25058,Excellent,2021
+521,CUST-0521,William,Jones,Male,19,18-24,Student,Abuja,Nigeria,Upper-Middle (60K-100K),71585,Very Good,2015
+522,CUST-0522,Charles,Adeyemi,Male,69,65+,Entrepreneur,Mumbai,India,Lower-Middle (30K-60K),46544,Fair,2018
+523,CUST-0523,Nancy,Adeyemi,Male,68,65+,Doctor,Toronto,Canada,Very High (200K+),242044,Poor,2021
+524,CUST-0524,Daniel,Balogun,Male,68,65+,Sales Manager,Abuja,Nigeria,High (100K-200K),135972,Good,2015
+525,CUST-0525,Sarah,Smith,Female,62,55-64,Entrepreneur,Paris,France,Upper-Middle (60K-100K),80031,Very Good,2019
+526,CUST-0526,Michael,Rodriguez,Female,26,25-34,Student,Chicago,USA,High (100K-200K),184614,Excellent,2018
+527,CUST-0527,Karen,Olawale,Male,41,35-44,Accountant,Los Angeles,USA,High (100K-200K),166592,Good,2020
+528,CUST-0528,Tunde,Johnson,Male,41,35-44,Architect,Paris,France,Upper-Middle (60K-100K),86563,Good,2023
+529,CUST-0529,Emeka,Patel,Female,32,25-34,Marketing Analyst,Sydney,Australia,High (100K-200K),120471,Very Good,2020
+530,CUST-0530,Lisa,Chen,Female,44,35-44,Software Engineer,Paris,France,Lower-Middle (30K-60K),58182,Good,2020
+531,CUST-0531,Wei,Eze,Female,59,55-64,Marketing Analyst,Toronto,Canada,Upper-Middle (60K-100K),70519,Very Good,2018
+532,CUST-0532,Hans,Rodriguez,Female,44,35-44,Freelancer,Houston,USA,High (100K-200K),103473,Very Good,2023
+533,CUST-0533,Carlos,Davis,Female,63,55-64,Accountant,Chicago,USA,Upper-Middle (60K-100K),80843,Poor,2018
+534,CUST-0534,Adebayo,Balogun,Male,36,35-44,Sales Manager,New York,USA,High (100K-200K),178673,Excellent,2021
+535,CUST-0535,David,Tanaka,Female,55,55-64,Trader,Lagos,Nigeria,Very High (200K+),334695,Excellent,2016
+536,CUST-0536,Betty,Nnamdi,Male,20,18-24,Farmer,Lagos,Nigeria,Very High (200K+),488486,Fair,2019
+537,CUST-0537,Hans,Smith,Female,48,45-54,Doctor,Paris,France,Lower-Middle (30K-60K),32035,Poor,2022
+538,CUST-0538,Joseph,Chukwu,Female,45,45-54,Driver,Toronto,Canada,High (100K-200K),198677,Excellent,2023
+539,CUST-0539,Sandra,Davis,Female,61,55-64,Accountant,Port Harcourt,Nigeria,High (100K-200K),183419,Good,2017
+540,CUST-0540,Ahmed,Al-Rashid,Female,18,18-24,Chef,Mumbai,India,High (100K-200K),194131,Excellent,2020
+541,CUST-0541,Daniel,Chen,Male,19,18-24,Accountant,Kano,Nigeria,Upper-Middle (60K-100K),62592,Poor,2017
+542,CUST-0542,Betty,Ibrahim,Female,70,65+,Civil Servant,Paris,France,Low (<30K),26276,Fair,2022
+543,CUST-0543,Richard,Chen,Male,47,45-54,Farmer,Berlin,Germany,Upper-Middle (60K-100K),86721,Good,2016
+544,CUST-0544,Joseph,Patel,Female,31,25-34,Doctor,Toronto,Canada,High (100K-200K),165143,Fair,2016
+545,CUST-0545,Sarah,Brown,Female,42,35-44,Pharmacist,New York,USA,Low (<30K),13804,Poor,2017
+546,CUST-0546,Aisha,Mueller,Female,47,45-54,Retired,New York,USA,High (100K-200K),145383,Good,2022
+547,CUST-0547,Funke,Tanaka,Female,68,65+,Freelancer,Port Harcourt,Nigeria,High (100K-200K),110049,Poor,2019
+548,CUST-0548,Lisa,Rodriguez,Female,23,18-24,Student,Lagos,Nigeria,Lower-Middle (30K-60K),45025,Very Good,2022
+549,CUST-0549,Oluwaseun,Al-Rashid,Female,57,55-64,Doctor,Houston,USA,Upper-Middle (60K-100K),62824,Poor,2023
+550,CUST-0550,Joseph,Kumar,Female,31,25-34,Freelancer,New York,USA,Very High (200K+),239228,Excellent,2021
+551,CUST-0551,Anthony,Davis,Male,56,55-64,Retired,Berlin,Germany,Upper-Middle (60K-100K),99406,Fair,2019
+552,CUST-0552,Carlos,Olawale,Female,35,35-44,Pharmacist,London,UK,Low (<30K),29027,Poor,2018
+553,CUST-0553,Betty,Jones,Male,61,55-64,Chef,Los Angeles,USA,Upper-Middle (60K-100K),93280,Good,2023
+554,CUST-0554,Tunde,Balogun,Female,54,45-54,Doctor,New York,USA,Upper-Middle (60K-100K),64313,Good,2016
+555,CUST-0555,Robert,Rodriguez,Male,42,35-44,Marketing Analyst,London,UK,Upper-Middle (60K-100K),76838,Very Good,2019
+556,CUST-0556,Daniel,Tanaka,Female,57,55-64,Mechanic,London,UK,Upper-Middle (60K-100K),93418,Good,2016
+557,CUST-0557,Joseph,Okonkwo,Female,61,55-64,Marketing Analyst,Lagos,Nigeria,High (100K-200K),157599,Excellent,2016
+558,CUST-0558,Thomas,Chen,Male,30,25-34,Marketing Analyst,Toronto,Canada,Low (<30K),19331,Very Good,2017
+559,CUST-0559,Carlos,Santos,Male,69,65+,Nurse,Houston,USA,Lower-Middle (30K-60K),45473,Very Good,2022
+560,CUST-0560,Mark,Davis,Male,60,55-64,Nurse,Port Harcourt,Nigeria,High (100K-200K),167454,Good,2021
+561,CUST-0561,Ingrid,Miller,Male,56,55-64,Farmer,Chicago,USA,Upper-Middle (60K-100K),61033,Very Good,2017
+562,CUST-0562,Ngozi,Olawale,Female,32,25-34,Lawyer,Lagos,Nigeria,High (100K-200K),192144,Good,2018
+563,CUST-0563,Lisa,Okafor,Female,47,45-54,Nurse,Port Harcourt,Nigeria,Low (<30K),28432,Fair,2017
+564,CUST-0564,Elizabeth,Johansson,Male,21,18-24,Doctor,Kano,Nigeria,Upper-Middle (60K-100K),89462,Good,2020
+565,CUST-0565,Raj,Abubakar,Male,49,45-54,Architect,Toronto,Canada,Very High (200K+),452000,Very Good,2020
+566,CUST-0566,Robert,Patel,Female,55,55-64,Entrepreneur,Houston,USA,Upper-Middle (60K-100K),62444,Poor,2018
+567,CUST-0567,Sandra,Martinez,Male,56,55-64,Lawyer,Port Harcourt,Nigeria,Low (<30K),21997,Good,2023
+568,CUST-0568,Aisha,Williams,Female,31,25-34,Entrepreneur,Kano,Nigeria,Low (<30K),13895,Good,2021
+569,CUST-0569,Margaret,Rodriguez,Female,40,35-44,Driver,Mumbai,India,Upper-Middle (60K-100K),88096,Excellent,2023
+570,CUST-0570,Sarah,Eze,Female,44,35-44,Farmer,Los Angeles,USA,Very High (200K+),371959,Fair,2019
+571,CUST-0571,Fatima,Smith,Female,58,55-64,Farmer,Chicago,USA,Upper-Middle (60K-100K),65953,Very Good,2015
+572,CUST-0572,Linda,Ibrahim,Female,26,25-34,Retired,Houston,USA,Very High (200K+),483211,Excellent,2019
+573,CUST-0573,Barbara,Santos,Male,36,35-44,Chef,Toronto,Canada,Low (<30K),23716,Fair,2015
+574,CUST-0574,Carlos,Okafor,Female,38,35-44,Entrepreneur,Berlin,Germany,Very High (200K+),485070,Excellent,2021
+575,CUST-0575,Matthew,Ibrahim,Female,32,25-34,Marketing Analyst,Port Harcourt,Nigeria,High (100K-200K),162656,Good,2015
+576,CUST-0576,Hans,Santos,Male,68,65+,Farmer,Abuja,Nigeria,Upper-Middle (60K-100K),96670,Excellent,2023
+577,CUST-0577,Sarah,Garcia,Female,60,55-64,Trader,London,UK,Very High (200K+),237672,Very Good,2021
+578,CUST-0578,Carlos,Jones,Male,24,18-24,Architect,Lagos,Nigeria,High (100K-200K),138361,Good,2023
+579,CUST-0579,Chukwudi,Nakamura,Female,38,35-44,Chef,Manchester,UK,Upper-Middle (60K-100K),95052,Good,2021
+580,CUST-0580,Margaret,Mueller,Male,21,18-24,Pharmacist,Tokyo,Japan,Very High (200K+),452354,Fair,2017
+581,CUST-0581,Mark,Miller,Female,71,65+,Software Engineer,Houston,USA,Upper-Middle (60K-100K),76417,Good,2016
+582,CUST-0582,Anthony,Adeyemi,Male,25,25-34,Accountant,Manchester,UK,Upper-Middle (60K-100K),78502,Good,2021
+583,CUST-0583,Christopher,Jones,Female,72,65+,Lawyer,Tokyo,Japan,Upper-Middle (60K-100K),71769,Excellent,2020
+584,CUST-0584,Anthony,Okafor,Male,38,35-44,Sales Manager,London,UK,Lower-Middle (30K-60K),59729,Very Good,2021
+585,CUST-0585,Tunde,Williams,Female,61,55-64,Software Engineer,Kano,Nigeria,Upper-Middle (60K-100K),81279,Fair,2022
+586,CUST-0586,Funke,Okonkwo,Female,48,45-54,Architect,Houston,USA,Low (<30K),12337,Good,2019
+587,CUST-0587,Hans,Okafor,Female,46,45-54,Student,Port Harcourt,Nigeria,Lower-Middle (30K-60K),31119,Good,2020
+588,CUST-0588,Matthew,Miller,Male,27,25-34,Architect,Los Angeles,USA,Upper-Middle (60K-100K),67310,Excellent,2023
+589,CUST-0589,David,Abubakar,Female,68,65+,Software Engineer,Kano,Nigeria,Upper-Middle (60K-100K),84942,Good,2017
+590,CUST-0590,Sandra,Santos,Female,51,45-54,Accountant,Toronto,Canada,Lower-Middle (30K-60K),38185,Poor,2015
+591,CUST-0591,Tunde,Okafor,Female,59,55-64,Mechanic,Lagos,Nigeria,Upper-Middle (60K-100K),83409,Good,2019
+592,CUST-0592,Ahmed,Brown,Female,38,35-44,Sales Manager,Houston,USA,Low (<30K),18824,Very Good,2023
+593,CUST-0593,Robert,Adeyemi,Female,55,55-64,Retired,Kano,Nigeria,Upper-Middle (60K-100K),76903,Good,2020
+594,CUST-0594,James,Balogun,Male,47,45-54,Lawyer,Chicago,USA,Upper-Middle (60K-100K),98538,Good,2016
+595,CUST-0595,Karen,Brown,Male,51,45-54,Farmer,Port Harcourt,Nigeria,Lower-Middle (30K-60K),35056,Good,2018
+596,CUST-0596,John,Garcia,Female,49,45-54,Freelancer,Toronto,Canada,High (100K-200K),196067,Good,2019
+597,CUST-0597,Nancy,Patel,Female,24,18-24,Architect,Port Harcourt,Nigeria,Upper-Middle (60K-100K),75813,Very Good,2022
+598,CUST-0598,Ahmed,Tanaka,Female,43,35-44,Driver,Port Harcourt,Nigeria,Lower-Middle (30K-60K),43188,Very Good,2023
+599,CUST-0599,Isabella,Abubakar,Female,37,35-44,Marketing Analyst,Lagos,Nigeria,High (100K-200K),120483,Very Good,2016
+600,CUST-0600,Linda,Smith,Male,59,55-64,Freelancer,Abuja,Nigeria,Upper-Middle (60K-100K),98917,Excellent,2015
+601,CUST-0601,Yuki,Kumar,Male,69,65+,Driver,Houston,USA,Low (<30K),24069,Good,2018
+602,CUST-0602,David,Okonkwo,Female,31,25-34,Accountant,Paris,France,Very High (200K+),427609,Fair,2022
+603,CUST-0603,Michael,Adeyemi,Male,44,35-44,Teacher,Paris,France,Upper-Middle (60K-100K),93078,Excellent,2017
+604,CUST-0604,Adebayo,Kumar,Male,36,35-44,Doctor,Manchester,UK,Lower-Middle (30K-60K),45908,Very Good,2018
+605,CUST-0605,Ahmed,Martinez,Female,49,45-54,Chef,Lagos,Nigeria,Upper-Middle (60K-100K),98503,Very Good,2018
+606,CUST-0606,Tunde,Tanaka,Male,29,25-34,Trader,Chicago,USA,Lower-Middle (30K-60K),56429,Fair,2022
+607,CUST-0607,Emeka,Okonkwo,Male,44,35-44,Marketing Analyst,Port Harcourt,Nigeria,Low (<30K),20737,Poor,2015
+608,CUST-0608,Betty,Mueller,Female,35,35-44,Nurse,Berlin,Germany,Low (<30K),25329,Very Good,2020
+609,CUST-0609,Susan,Nakamura,Male,21,18-24,Teacher,Lagos,Nigeria,Upper-Middle (60K-100K),63365,Very Good,2020
+610,CUST-0610,Lisa,Balogun,Female,47,45-54,Mechanic,Port Harcourt,Nigeria,Upper-Middle (60K-100K),66780,Excellent,2019
+611,CUST-0611,Barbara,Kim,Female,57,55-64,Freelancer,Port Harcourt,Nigeria,High (100K-200K),149067,Good,2023
+612,CUST-0612,Thomas,Chen,Male,45,45-54,Teacher,Port Harcourt,Nigeria,Upper-Middle (60K-100K),98793,Very Good,2019
+613,CUST-0613,Betty,Davis,Male,41,35-44,Teacher,Tokyo,Japan,Low (<30K),28129,Fair,2019
+614,CUST-0614,Charles,Garcia,Female,52,45-54,Lawyer,Chicago,USA,Lower-Middle (30K-60K),30096,Very Good,2022
+615,CUST-0615,Daniel,Williams,Female,71,65+,Chef,Port Harcourt,Nigeria,High (100K-200K),150998,Very Good,2020
+616,CUST-0616,Funke,Miller,Male,45,45-54,Teacher,Paris,France,Upper-Middle (60K-100K),71912,Excellent,2015
+617,CUST-0617,William,Nnamdi,Male,28,25-34,Lawyer,Houston,USA,Lower-Middle (30K-60K),33779,Very Good,2021
+618,CUST-0618,Betty,Ibrahim,Male,28,25-34,Architect,Chicago,USA,Lower-Middle (30K-60K),54089,Good,2022
+619,CUST-0619,Ngozi,Ibrahim,Male,39,35-44,Trader,New York,USA,Lower-Middle (30K-60K),43554,Good,2020
+620,CUST-0620,Margaret,Okafor,Female,55,55-64,Freelancer,Paris,France,Upper-Middle (60K-100K),90668,Very Good,2018
+621,CUST-0621,Patricia,Johansson,Male,52,45-54,Farmer,Tokyo,Japan,Upper-Middle (60K-100K),82868,Very Good,2023
+622,CUST-0622,Ingrid,Martinez,Male,27,25-34,Doctor,London,UK,Upper-Middle (60K-100K),88421,Good,2020
+623,CUST-0623,Yuki,Jones,Female,38,35-44,Nurse,London,UK,High (100K-200K),190593,Very Good,2016
+624,CUST-0624,Raj,Eze,Male,49,45-54,Nurse,Port Harcourt,Nigeria,Upper-Middle (60K-100K),78069,Very Good,2018
+625,CUST-0625,Christopher,Eze,Female,58,55-64,Student,Port Harcourt,Nigeria,Upper-Middle (60K-100K),68471,Good,2022
+626,CUST-0626,Linda,Ibrahim,Male,48,45-54,Retired,Lagos,Nigeria,Low (<30K),18330,Very Good,2018
+627,CUST-0627,Anthony,Okonkwo,Female,71,65+,Chef,Houston,USA,Low (<30K),29063,Very Good,2023
+628,CUST-0628,Jennifer,Jones,Male,31,25-34,Nurse,Kano,Nigeria,Low (<30K),13338,Excellent,2016
+629,CUST-0629,Matthew,Tanaka,Female,65,65+,Sales Manager,Manchester,UK,Lower-Middle (30K-60K),57469,Good,2022
+630,CUST-0630,Lisa,Kim,Female,49,45-54,Freelancer,Berlin,Germany,Low (<30K),28228,Good,2016
+631,CUST-0631,Emeka,Kumar,Male,50,45-54,Lawyer,Manchester,UK,High (100K-200K),178904,Poor,2020
+632,CUST-0632,Yuki,Chukwu,Male,34,25-34,Mechanic,Mumbai,India,Very High (200K+),327712,Very Good,2023
+633,CUST-0633,Margaret,Smith,Male,19,18-24,Architect,Lagos,Nigeria,High (100K-200K),111512,Very Good,2018
+634,CUST-0634,Susan,Kim,Female,70,65+,Accountant,Manchester,UK,Lower-Middle (30K-60K),35975,Excellent,2015
+635,CUST-0635,Isabella,Santos,Male,59,55-64,Lawyer,Kano,Nigeria,Low (<30K),23180,Very Good,2015
+636,CUST-0636,Robert,Santos,Male,40,35-44,Accountant,Port Harcourt,Nigeria,Upper-Middle (60K-100K),74279,Poor,2023
+637,CUST-0637,Raj,Santos,Male,72,65+,Freelancer,New York,USA,Low (<30K),23032,Very Good,2018
+638,CUST-0638,Tunde,Martinez,Male,31,25-34,Driver,London,UK,Upper-Middle (60K-100K),74582,Fair,2015
+639,CUST-0639,Christopher,Okonkwo,Male,20,18-24,Doctor,New York,USA,Low (<30K),20122,Very Good,2018
+640,CUST-0640,Lisa,Ibrahim,Male,38,35-44,Accountant,Houston,USA,Very High (200K+),466326,Fair,2020
+641,CUST-0641,William,Kim,Male,20,18-24,Driver,Mumbai,India,Upper-Middle (60K-100K),74345,Fair,2019
+642,CUST-0642,John,Johnson,Male,55,55-64,Civil Servant,Kano,Nigeria,Upper-Middle (60K-100K),69503,Good,2018
+643,CUST-0643,Thomas,Tanaka,Female,44,35-44,Entrepreneur,Sydney,Australia,Low (<30K),28250,Good,2023
+644,CUST-0644,Aisha,Mueller,Male,42,35-44,Driver,Toronto,Canada,Upper-Middle (60K-100K),66323,Fair,2016
+645,CUST-0645,Anthony,Chen,Female,25,25-34,Doctor,Chicago,USA,Upper-Middle (60K-100K),60722,Very Good,2019
+646,CUST-0646,Sandra,Patel,Female,31,25-34,Entrepreneur,Los Angeles,USA,Lower-Middle (30K-60K),45253,Good,2015
+647,CUST-0647,Linda,Abubakar,Female,71,65+,Teacher,London,UK,Low (<30K),12658,Excellent,2020
+648,CUST-0648,Charles,Smith,Female,32,25-34,Doctor,Mumbai,India,Lower-Middle (30K-60K),41808,Very Good,2022
+649,CUST-0649,Barbara,Abubakar,Female,23,18-24,Civil Servant,Abuja,Nigeria,Upper-Middle (60K-100K),62567,Excellent,2020
+650,CUST-0650,Mary,Al-Rashid,Male,32,25-34,Teacher,Mumbai,India,High (100K-200K),187460,Good,2018
+651,CUST-0651,Sarah,Brown,Female,44,35-44,Mechanic,Chicago,USA,Very High (200K+),437180,Excellent,2018
+652,CUST-0652,Ahmed,Garcia,Female,69,65+,Architect,Chicago,USA,Upper-Middle (60K-100K),88811,Very Good,2022
+653,CUST-0653,Anthony,Garcia,Female,48,45-54,Driver,Kano,Nigeria,Upper-Middle (60K-100K),83292,Good,2016
+654,CUST-0654,Charles,Eze,Male,51,45-54,Marketing Analyst,Lagos,Nigeria,Upper-Middle (60K-100K),63380,Very Good,2020
+655,CUST-0655,Charles,Ibrahim,Male,23,18-24,Architect,New York,USA,High (100K-200K),105966,Fair,2015
+656,CUST-0656,Mary,Eze,Male,45,45-54,Student,Port Harcourt,Nigeria,Lower-Middle (30K-60K),35822,Poor,2023
+657,CUST-0657,Joseph,Tanaka,Female,19,18-24,Retired,Sydney,Australia,Upper-Middle (60K-100K),66835,Very Good,2018
+658,CUST-0658,Matthew,Nakamura,Male,67,65+,Nurse,New York,USA,Low (<30K),12327,Good,2021
+659,CUST-0659,Sandra,Davis,Male,30,25-34,Civil Servant,Kano,Nigeria,Lower-Middle (30K-60K),42095,Good,2022
+660,CUST-0660,Patricia,Abubakar,Male,18,18-24,Nurse,Kano,Nigeria,Low (<30K),16118,Very Good,2021
+661,CUST-0661,Linda,Miller,Female,40,35-44,Lawyer,Chicago,USA,High (100K-200K),151974,Poor,2017
+662,CUST-0662,William,Abubakar,Male,38,35-44,Mechanic,Port Harcourt,Nigeria,Lower-Middle (30K-60K),57770,Very Good,2021
+663,CUST-0663,Patricia,Davis,Male,71,65+,Freelancer,New York,USA,High (100K-200K),130958,Excellent,2015
+664,CUST-0664,Jennifer,Ibrahim,Male,19,18-24,Nurse,Mumbai,India,High (100K-200K),168613,Very Good,2023
+665,CUST-0665,Funke,Adeyemi,Female,23,18-24,Marketing Analyst,Kano,Nigeria,Lower-Middle (30K-60K),30742,Fair,2017
+666,CUST-0666,David,Abubakar,Male,38,35-44,Entrepreneur,Kano,Nigeria,Low (<30K),23861,Very Good,2022
+667,CUST-0667,Ingrid,Abubakar,Male,31,25-34,Teacher,Lagos,Nigeria,Very High (200K+),288565,Good,2019
+668,CUST-0668,Barbara,Kumar,Male,70,65+,Pharmacist,Berlin,Germany,Low (<30K),15148,Excellent,2020
+669,CUST-0669,Ahmed,Al-Rashid,Male,53,45-54,Nurse,Abuja,Nigeria,High (100K-200K),145466,Excellent,2016
+670,CUST-0670,Wei,Martinez,Male,57,55-64,Accountant,Abuja,Nigeria,Upper-Middle (60K-100K),66257,Good,2022
+671,CUST-0671,Ngozi,Okonkwo,Female,62,55-64,Student,Lagos,Nigeria,Low (<30K),27767,Excellent,2019
+672,CUST-0672,Funke,Balogun,Male,34,25-34,Chef,Paris,France,Lower-Middle (30K-60K),42095,Good,2019
+673,CUST-0673,Chukwudi,Olawale,Female,54,45-54,Mechanic,Port Harcourt,Nigeria,Upper-Middle (60K-100K),87769,Good,2017
+674,CUST-0674,Sarah,Santos,Female,60,55-64,Doctor,Los Angeles,USA,Upper-Middle (60K-100K),94155,Very Good,2016
+675,CUST-0675,Michael,Kumar,Female,28,25-34,Teacher,Chicago,USA,Low (<30K),29977,Fair,2016
+676,CUST-0676,Mark,Nnamdi,Male,71,65+,Freelancer,Manchester,UK,Very High (200K+),409461,Very Good,2020
+677,CUST-0677,Hans,Williams,Male,20,18-24,Sales Manager,New York,USA,High (100K-200K),133182,Excellent,2018
+678,CUST-0678,Yuki,Johnson,Female,33,25-34,Nurse,Lagos,Nigeria,High (100K-200K),181678,Fair,2017
+679,CUST-0679,Chukwudi,Nakamura,Female,33,25-34,Sales Manager,Berlin,Germany,Upper-Middle (60K-100K),60341,Good,2019
+680,CUST-0680,Joseph,Rodriguez,Male,60,55-64,Freelancer,Houston,USA,High (100K-200K),136897,Very Good,2016
+681,CUST-0681,Christopher,Davis,Male,40,35-44,Doctor,Kano,Nigeria,Lower-Middle (30K-60K),53380,Fair,2023
+682,CUST-0682,Chukwudi,Al-Rashid,Male,18,18-24,Freelancer,Berlin,Germany,High (100K-200K),140136,Poor,2015
+683,CUST-0683,Nancy,Garcia,Female,42,35-44,Mechanic,Houston,USA,High (100K-200K),123022,Fair,2023
+684,CUST-0684,Funke,Mueller,Female,65,65+,Civil Servant,Paris,France,High (100K-200K),152526,Fair,2017
+685,CUST-0685,Mark,Santos,Female,40,35-44,Software Engineer,Chicago,USA,Low (<30K),22186,Good,2016
+686,CUST-0686,Sarah,Chukwu,Male,40,35-44,Civil Servant,New York,USA,Low (<30K),28566,Good,2023
+687,CUST-0687,Adebayo,Okafor,Female,69,65+,Architect,Mumbai,India,Low (<30K),16866,Fair,2017
+688,CUST-0688,Blessing,Kumar,Female,50,45-54,Accountant,Sydney,Australia,Upper-Middle (60K-100K),65043,Fair,2021
+689,CUST-0689,Blessing,Rodriguez,Male,18,18-24,Chef,Lagos,Nigeria,Upper-Middle (60K-100K),83833,Poor,2023
+690,CUST-0690,Funke,Kumar,Male,57,55-64,Trader,Sydney,Australia,Lower-Middle (30K-60K),55557,Very Good,2022
+691,CUST-0691,Sarah,Jones,Male,53,45-54,Sales Manager,Tokyo,Japan,High (100K-200K),132530,Good,2015
+692,CUST-0692,David,Chen,Male,47,45-54,Driver,Chicago,USA,Upper-Middle (60K-100K),82190,Excellent,2020
+693,CUST-0693,Betty,Garcia,Male,44,35-44,Architect,Sydney,Australia,Upper-Middle (60K-100K),70937,Excellent,2021
+694,CUST-0694,Linda,Kim,Female,53,45-54,Chef,Mumbai,India,Upper-Middle (60K-100K),76323,Very Good,2017
+695,CUST-0695,Thomas,Santos,Male,28,25-34,Lawyer,Port Harcourt,Nigeria,Very High (200K+),356146,Very Good,2018
+696,CUST-0696,Christopher,Johansson,Female,31,25-34,Trader,Tokyo,Japan,High (100K-200K),185207,Very Good,2021
+697,CUST-0697,William,Kumar,Female,37,35-44,Trader,Chicago,USA,Upper-Middle (60K-100K),85283,Excellent,2017
+698,CUST-0698,Sandra,Chukwu,Female,49,45-54,Freelancer,Toronto,Canada,High (100K-200K),158870,Fair,2017
+699,CUST-0699,Chidinma,Davis,Female,63,55-64,Accountant,Toronto,Canada,High (100K-200K),131832,Very Good,2020
+700,CUST-0700,John,Abubakar,Male,42,35-44,Mechanic,London,UK,Lower-Middle (30K-60K),31220,Good,2019
+701,CUST-0701,Elizabeth,Patel,Female,54,45-54,Doctor,New York,USA,Lower-Middle (30K-60K),33821,Good,2016
+702,CUST-0702,Aisha,Okafor,Female,57,55-64,Student,Berlin,Germany,Lower-Middle (30K-60K),45135,Poor,2020
+703,CUST-0703,Mary,Mueller,Male,50,45-54,Freelancer,Tokyo,Japan,Upper-Middle (60K-100K),75633,Excellent,2021
+704,CUST-0704,Tunde,Adeyemi,Female,62,55-64,Freelancer,Kano,Nigeria,Upper-Middle (60K-100K),96596,Good,2022
+705,CUST-0705,Lisa,Johansson,Female,30,25-34,Student,Abuja,Nigeria,Upper-Middle (60K-100K),60690,Very Good,2023
+706,CUST-0706,David,Okafor,Female,37,35-44,Chef,London,UK,Low (<30K),24809,Good,2015
+707,CUST-0707,Mark,Martinez,Female,34,25-34,Mechanic,Toronto,Canada,High (100K-200K),171631,Very Good,2019
+708,CUST-0708,Hans,Brown,Male,65,65+,Farmer,Los Angeles,USA,Upper-Middle (60K-100K),71573,Good,2017
+709,CUST-0709,Ngozi,Martinez,Female,46,45-54,Chef,Houston,USA,Low (<30K),14648,Excellent,2021
+710,CUST-0710,Ingrid,Nnamdi,Male,29,25-34,Accountant,Houston,USA,High (100K-200K),129991,Poor,2018
+711,CUST-0711,Raj,Abubakar,Female,59,55-64,Student,Chicago,USA,Upper-Middle (60K-100K),64756,Good,2022
+712,CUST-0712,Wei,Martinez,Female,68,65+,Retired,Chicago,USA,Upper-Middle (60K-100K),96465,Good,2019
+713,CUST-0713,Funke,Jones,Male,46,45-54,Farmer,Los Angeles,USA,Upper-Middle (60K-100K),95898,Excellent,2019
+714,CUST-0714,Susan,Santos,Female,69,65+,Retired,Toronto,Canada,High (100K-200K),197075,Good,2020
+715,CUST-0715,Betty,Rodriguez,Male,52,45-54,Software Engineer,Los Angeles,USA,High (100K-200K),153974,Very Good,2021
+716,CUST-0716,Karen,Abubakar,Male,71,65+,Nurse,Manchester,UK,Lower-Middle (30K-60K),49051,Good,2018
+717,CUST-0717,Sandra,Okafor,Male,59,55-64,Driver,Manchester,UK,Very High (200K+),298752,Very Good,2017
+718,CUST-0718,Adebayo,Chen,Male,18,18-24,Teacher,Berlin,Germany,Low (<30K),25118,Good,2017
+719,CUST-0719,Joseph,Garcia,Male,57,55-64,Driver,Lagos,Nigeria,Lower-Middle (30K-60K),45595,Very Good,2022
+720,CUST-0720,Jessica,Olawale,Male,33,25-34,Nurse,Paris,France,Lower-Middle (30K-60K),55408,Good,2023
+721,CUST-0721,Christopher,Olawale,Male,42,35-44,Entrepreneur,Chicago,USA,Low (<30K),21382,Fair,2018
+722,CUST-0722,Michael,Olawale,Male,23,18-24,Retired,Tokyo,Japan,Lower-Middle (30K-60K),36794,Good,2023
+723,CUST-0723,Funke,Nnamdi,Male,69,65+,Sales Manager,Sydney,Australia,High (100K-200K),159568,Very Good,2019
+724,CUST-0724,Sandra,Miller,Female,40,35-44,Mechanic,Berlin,Germany,Lower-Middle (30K-60K),46523,Very Good,2017
+725,CUST-0725,Patricia,Miller,Male,55,55-64,Freelancer,Kano,Nigeria,High (100K-200K),180299,Good,2021
+726,CUST-0726,Oluwaseun,Miller,Female,22,18-24,Mechanic,Houston,USA,High (100K-200K),159902,Good,2023
+727,CUST-0727,Matthew,Rodriguez,Male,71,65+,Entrepreneur,New York,USA,Low (<30K),28304,Fair,2021
+728,CUST-0728,Mary,Santos,Female,72,65+,Civil Servant,Sydney,Australia,Lower-Middle (30K-60K),36505,Fair,2023
+729,CUST-0729,John,Kim,Female,43,35-44,Chef,New York,USA,Lower-Middle (30K-60K),52548,Good,2019
+730,CUST-0730,Ngozi,Patel,Female,51,45-54,Retired,Los Angeles,USA,Lower-Middle (30K-60K),34940,Very Good,2017
+731,CUST-0731,Blessing,Adeyemi,Female,67,65+,Trader,Port Harcourt,Nigeria,Lower-Middle (30K-60K),35523,Very Good,2015
+732,CUST-0732,Betty,Chukwu,Male,26,25-34,Software Engineer,Kano,Nigeria,Low (<30K),26225,Very Good,2020
+733,CUST-0733,Charles,Balogun,Male,62,55-64,Pharmacist,Abuja,Nigeria,Low (<30K),14865,Very Good,2015
+734,CUST-0734,Sarah,Kumar,Female,36,35-44,Nurse,London,UK,Lower-Middle (30K-60K),37375,Good,2020
+735,CUST-0735,Ingrid,Chen,Male,30,25-34,Pharmacist,Chicago,USA,High (100K-200K),118841,Fair,2023
+736,CUST-0736,Tunde,Davis,Female,37,35-44,Retired,Abuja,Nigeria,Upper-Middle (60K-100K),60274,Fair,2018
+737,CUST-0737,Christopher,Nnamdi,Female,70,65+,Mechanic,London,UK,Lower-Middle (30K-60K),40741,Good,2021
+738,CUST-0738,Charles,Olawale,Female,44,35-44,Retired,Abuja,Nigeria,Upper-Middle (60K-100K),93074,Fair,2018
+739,CUST-0739,Joseph,Garcia,Male,64,55-64,Nurse,Houston,USA,High (100K-200K),115175,Good,2020
+740,CUST-0740,Daniel,Okafor,Female,54,45-54,Pharmacist,Lagos,Nigeria,Lower-Middle (30K-60K),44520,Very Good,2015
+741,CUST-0741,Betty,Williams,Male,53,45-54,Lawyer,Houston,USA,Upper-Middle (60K-100K),69653,Excellent,2018
+742,CUST-0742,Betty,Abubakar,Female,27,25-34,Software Engineer,Tokyo,Japan,Lower-Middle (30K-60K),43261,Excellent,2022
+743,CUST-0743,Blessing,Patel,Female,50,45-54,Entrepreneur,Lagos,Nigeria,Very High (200K+),269222,Very Good,2021
+744,CUST-0744,Karen,Garcia,Female,42,35-44,Farmer,Port Harcourt,Nigeria,Very High (200K+),366314,Excellent,2019
+745,CUST-0745,Jennifer,Mueller,Male,52,45-54,Nurse,Mumbai,India,High (100K-200K),185722,Fair,2016
+746,CUST-0746,Yuki,Mueller,Female,37,35-44,Civil Servant,Kano,Nigeria,Upper-Middle (60K-100K),65913,Good,2021
+747,CUST-0747,Linda,Al-Rashid,Male,38,35-44,Driver,Chicago,USA,Very High (200K+),486964,Good,2021
+748,CUST-0748,Margaret,Chen,Male,32,25-34,Nurse,Los Angeles,USA,Low (<30K),23405,Excellent,2015
+749,CUST-0749,Hans,Olawale,Male,53,45-54,Student,Paris,France,Very High (200K+),256042,Very Good,2021
+750,CUST-0750,Oluwaseun,Kim,Female,25,25-34,Architect,Port Harcourt,Nigeria,High (100K-200K),189275,Good,2016
+751,CUST-0751,Margaret,Adeyemi,Female,35,35-44,Pharmacist,Lagos,Nigeria,Low (<30K),19767,Good,2016
+752,CUST-0752,Jennifer,Al-Rashid,Male,32,25-34,Mechanic,Tokyo,Japan,Lower-Middle (30K-60K),42961,Fair,2016
+753,CUST-0753,Sarah,Rodriguez,Male,67,65+,Marketing Analyst,Chicago,USA,Upper-Middle (60K-100K),80718,Good,2023
+754,CUST-0754,Anthony,Santos,Female,38,35-44,Software Engineer,Berlin,Germany,Very High (200K+),491682,Excellent,2016
+755,CUST-0755,James,Jones,Male,62,55-64,Retired,Kano,Nigeria,Very High (200K+),308995,Very Good,2022
+756,CUST-0756,Mary,Williams,Female,29,25-34,Lawyer,Kano,Nigeria,Lower-Middle (30K-60K),40705,Fair,2018
+757,CUST-0757,Ahmed,Johansson,Male,71,65+,Trader,London,UK,Low (<30K),15876,Very Good,2019
+758,CUST-0758,Funke,Chukwu,Male,45,45-54,Mechanic,Houston,USA,Low (<30K),19949,Poor,2019
+759,CUST-0759,Hans,Rodriguez,Male,40,35-44,Pharmacist,Kano,Nigeria,High (100K-200K),144389,Very Good,2021
+760,CUST-0760,Jessica,Kumar,Male,31,25-34,Accountant,Mumbai,India,Low (<30K),14207,Good,2015
+761,CUST-0761,John,Santos,Male,42,35-44,Entrepreneur,Abuja,Nigeria,High (100K-200K),173006,Very Good,2015
+762,CUST-0762,Funke,Kim,Female,50,45-54,Teacher,Toronto,Canada,Very High (200K+),486833,Good,2016
+763,CUST-0763,Karen,Okonkwo,Male,47,45-54,Teacher,New York,USA,Lower-Middle (30K-60K),54297,Excellent,2020
+764,CUST-0764,Funke,Brown,Female,66,65+,Software Engineer,Manchester,UK,High (100K-200K),125758,Excellent,2019
+765,CUST-0765,Ahmed,Kim,Male,37,35-44,Lawyer,Sydney,Australia,Upper-Middle (60K-100K),74932,Very Good,2023
+766,CUST-0766,Elizabeth,Garcia,Male,53,45-54,Mechanic,Houston,USA,Upper-Middle (60K-100K),99725,Excellent,2015
+767,CUST-0767,Robert,Kim,Male,24,18-24,Marketing Analyst,Tokyo,Japan,Upper-Middle (60K-100K),65873,Very Good,2015
+768,CUST-0768,Thomas,Santos,Male,37,35-44,Teacher,Sydney,Australia,Upper-Middle (60K-100K),86474,Very Good,2018
+769,CUST-0769,Ngozi,Okafor,Female,71,65+,Mechanic,Port Harcourt,Nigeria,Upper-Middle (60K-100K),80787,Excellent,2020
+770,CUST-0770,Adebayo,Chukwu,Female,33,25-34,Driver,Los Angeles,USA,Upper-Middle (60K-100K),82970,Good,2019
+771,CUST-0771,Mary,Johnson,Female,25,25-34,Architect,Paris,France,Upper-Middle (60K-100K),97768,Excellent,2021
+772,CUST-0772,Yuki,Kumar,Female,66,65+,Mechanic,Paris,France,Very High (200K+),263702,Good,2022
+773,CUST-0773,Barbara,Chen,Female,50,45-54,Marketing Analyst,New York,USA,Lower-Middle (30K-60K),44988,Excellent,2015
+774,CUST-0774,David,Jones,Male,33,25-34,Retired,Port Harcourt,Nigeria,High (100K-200K),164657,Very Good,2015
+775,CUST-0775,Anthony,Nakamura,Male,28,25-34,Driver,Los Angeles,USA,Very High (200K+),253433,Very Good,2017
+776,CUST-0776,Jennifer,Smith,Male,35,35-44,Teacher,Manchester,UK,Upper-Middle (60K-100K),66406,Very Good,2020
+777,CUST-0777,Karen,Johnson,Male,61,55-64,Nurse,London,UK,Upper-Middle (60K-100K),98615,Excellent,2021
+778,CUST-0778,Isabella,Okafor,Male,57,55-64,Entrepreneur,Houston,USA,Upper-Middle (60K-100K),68777,Very Good,2017
+779,CUST-0779,Richard,Ibrahim,Male,69,65+,Chef,Abuja,Nigeria,Lower-Middle (30K-60K),34632,Excellent,2017
+780,CUST-0780,John,Martinez,Male,27,25-34,Retired,Tokyo,Japan,Upper-Middle (60K-100K),99242,Good,2016
+781,CUST-0781,Joseph,Patel,Female,47,45-54,Teacher,Port Harcourt,Nigeria,Very High (200K+),363369,Very Good,2020
+782,CUST-0782,Chukwudi,Ibrahim,Female,39,35-44,Doctor,Los Angeles,USA,Lower-Middle (30K-60K),59584,Excellent,2016
+783,CUST-0783,Jessica,Smith,Female,40,35-44,Teacher,Toronto,Canada,Very High (200K+),397652,Very Good,2015
+784,CUST-0784,Adebayo,Rodriguez,Male,64,55-64,Teacher,Mumbai,India,Lower-Middle (30K-60K),43761,Very Good,2017
+785,CUST-0785,Daniel,Tanaka,Male,55,55-64,Teacher,Toronto,Canada,Upper-Middle (60K-100K),81585,Very Good,2020
+786,CUST-0786,James,Chukwu,Male,59,55-64,Sales Manager,Paris,France,Low (<30K),27447,Good,2018
+787,CUST-0787,Linda,Mueller,Male,62,55-64,Architect,Tokyo,Japan,Upper-Middle (60K-100K),77657,Excellent,2019
+788,CUST-0788,Tunde,Okonkwo,Male,32,25-34,Entrepreneur,Lagos,Nigeria,High (100K-200K),113392,Very Good,2020
+789,CUST-0789,David,Patel,Male,71,65+,Trader,Chicago,USA,Upper-Middle (60K-100K),60857,Very Good,2021
+790,CUST-0790,Carlos,Abubakar,Male,20,18-24,Architect,Manchester,UK,Upper-Middle (60K-100K),90676,Very Good,2017
+791,CUST-0791,Linda,Okafor,Male,59,55-64,Retired,Paris,France,High (100K-200K),113299,Good,2021
+792,CUST-0792,David,Ibrahim,Female,57,55-64,Teacher,Tokyo,Japan,Low (<30K),27101,Good,2016
+793,CUST-0793,Wei,Kim,Female,53,45-54,Doctor,Lagos,Nigeria,High (100K-200K),125780,Very Good,2018
+794,CUST-0794,Sandra,Chen,Male,49,45-54,Pharmacist,Tokyo,Japan,Upper-Middle (60K-100K),78345,Fair,2017
+795,CUST-0795,Christopher,Chen,Male,61,55-64,Architect,Paris,France,Low (<30K),24378,Excellent,2018
+796,CUST-0796,Chidinma,Mueller,Female,67,65+,Nurse,Paris,France,Low (<30K),28075,Fair,2022
+797,CUST-0797,Emeka,Tanaka,Female,21,18-24,Pharmacist,London,UK,Lower-Middle (30K-60K),35325,Fair,2017
+798,CUST-0798,Ngozi,Nnamdi,Female,40,35-44,Retired,Manchester,UK,Very High (200K+),444583,Very Good,2015
+799,CUST-0799,Mary,Garcia,Female,56,55-64,Trader,Houston,USA,Low (<30K),19069,Very Good,2023
+800,CUST-0800,Jessica,Williams,Female,70,65+,Entrepreneur,Port Harcourt,Nigeria,Upper-Middle (60K-100K),95702,Very Good,2022

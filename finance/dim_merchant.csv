@@ -1,0 +1,21 @@
+merchant_key,merchant_name,merchant_type,merchant_category,region
+1,ShopRite,Retail,Groceries,Lagos
+2,Walmart,Retail,Groceries,Multiple
+3,Amazon,E-Commerce,Shopping,Online
+4,Netflix,Subscription,Entertainment,Online
+5,Uber,Transportation,Ride-Hailing,Multiple
+6,MTN Nigeria,Telecom,Utilities,Nigeria
+7,Shell Gas Station,Energy,Transportation,Multiple
+8,Jumia,E-Commerce,Shopping,Online
+9,Chicken Republic,Restaurant,Dining,Lagos
+10,Starbucks,Restaurant,Dining,Multiple
+11,Nike Store,Retail,Shopping,Multiple
+12,Apple Store,Technology,Shopping,Multiple
+13,Spotify,Subscription,Entertainment,Online
+14,Airbnb,Travel,Accommodation,Online
+15,Bolt,Transportation,Ride-Hailing,Multiple
+16,Paystack,Fintech,Transfer,Online
+17,PiggyVest,Fintech,Investment,Online
+18,DSTV,Subscription,Entertainment,Africa
+19,Shopify,E-Commerce,Business,Online
+20,Flutterwave,Fintech,Transfer,Online
