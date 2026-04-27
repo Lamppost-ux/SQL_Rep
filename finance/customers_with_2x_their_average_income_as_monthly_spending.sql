@@ -153,3 +153,25 @@ monthly_spending_calc AS (
 SELECT *
 FROM monthly_spending_calc
 WHERE monthly_spending > 2 * monthly_income;
+
+
+--Overspending customers
+WITH monthly_income AS (
+    SELECT
+        customer_key,
+        ROUND(annual_income / 12.0, 2) AS monthly_income
+    FROM finance.dim_customer
+),
+monthly_spending AS (
+    SELECT
+        ft.customer_key,
+        SUM(CASE WHEN ft.amount < 0 AND ft.status = 'Completed'
+            THEN ABS(ft.amount) ELSE 0 END) AS total_spent
+    FROM finance.fact_transactions ft
+    INNER JOIN finance.dim_date dd ON ft.date_key = dd.date_key
+    GROUP BY ft.customer_key
+)
+SELECT COUNT(*) AS overspending_customers
+FROM monthly_spending ms
+INNER JOIN monthly_income mi ON ms.customer_key = mi.customer_key
+WHERE ms.total_spent > 2 * mi.monthly_income;
